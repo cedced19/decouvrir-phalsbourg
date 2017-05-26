@@ -8,7 +8,7 @@ import { AppRegistry } from 'react-native';
 import { StackNavigator } from 'react-navigation';
 import MainScreen from './app/screens/main.js';
 
-const DecouvrirPhalsbourg = StackNavigator({
+export default DecouvrirPhalsbourg = StackNavigator({
   Main: {screen: MainScreen}
 }, {
   navigationOptions: {
