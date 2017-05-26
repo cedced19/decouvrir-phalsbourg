@@ -3,7 +3,10 @@ import {
   StyleSheet,
   StatusBar,
   Text,
-  View
+  Alert,
+  View,
+  Button,
+  Image
 } from 'react-native';
 
 
@@ -19,15 +22,21 @@ export default class MainScreen extends Component {
         <StatusBar
           backgroundColor={'royalblue'}
         />
+        <Image source={require('../images/blason.png')} style={styles.blason} />
         <Text style={styles.welcome}>
-          Bienvenue sur l'application {'\n'} "Découvrir Phalsbourg"
+          Bienvenue dans l'application {'\n'} "Découvrir Phalsbourg"
         </Text>
         <Text style={styles.instructions}>
           Phalsbourg est actuellement peuplé d'environ 5000 habitants.
         </Text>
         <Text style={styles.instructions}>
-          Découvrez, grâce à l'application, l'histoire de Phalsbourg simplement en vous ballandant dans les rues à la recherche du passé...
+          Découvrez, grâce à l'application, l'histoire de Phalsbourg simplement en vous baladant dans les rues à la recherche du passé...
         </Text>
+        <Button
+          onPress={() => navigate('Walking')}
+          title="Démarrer"
+          accessibilityLabel="Commencer à découvrir la ville."
+        />
       </View>
     );
   }
@@ -49,5 +58,9 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     color: '#333333',
     marginBottom: 5,
+  },
+  blason: {
+    width: 100,
+    height: 110
   }
 });

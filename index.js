@@ -1,15 +1,12 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
 import React, { Component } from 'react';
 import { AppRegistry } from 'react-native';
 import { StackNavigator } from 'react-navigation';
 import MainScreen from './app/screens/main.js';
+import WalkingScreen from './app/screens/walking.js';
 
 export default DecouvrirPhalsbourg = StackNavigator({
-  Main: {screen: MainScreen}
+  Main: {screen: MainScreen},
+  Walking: {screen: WalkingScreen}
 }, {
   navigationOptions: {
    headerStyle:  {
