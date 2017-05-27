@@ -7,54 +7,70 @@ import {
   Text
 } from 'react-native';
 import LocationServicesDialogBox from 'react-native-android-location-services-dialog-box';
+import BackgroundGeolocation from 'react-native-mauron85-background-geolocation';
 
+BackgroundGeolocation.configure({
+  desiredAccuracy: 0,
+  stationaryRadius: 10,
+  distanceFilter: 10,
+  locationTimeout: 30,
+  notificationTitle: 'Découvrir Phalsbourg',
+  notificationText: 'Découverte de Phalsbourg en cours...',
+  startOnBoot: false,
+  stopOnTerminate: false,
+  locationProvider: BackgroundGeolocation.provider.ANDROID_ACTIVITY_PROVIDER,
+  interval: 30000,
+  fastestInterval: 10000,
+  activitiesInterval: 60000,
+  stopOnStillActivity: false,
+  notificationIconLarge: 'small',
+  notificationIconSmall: 'small'
+});
 
 export default class WalkingScreen extends Component {
   static navigationOptions = {
     title: 'À la recherche de lieux',
     color: '#ff0000'
   };
-  constructor (props) {
-     super(props);
+  constructor(props) {
+    super(props);
+    this.state = {
+      location: {}
+    };
+  }
+  componentWillMount () {
      const { navigate } = this.props.navigation;
      LocationServicesDialogBox.checkLocationServicesIsEnabled({
         message: 'Vous devez activer la localisation pour que l\'application fonctionne.',
         ok: 'D\'accord',
         cancel: 'Annuler'
       }).then((success) => {
-        this.state = {
-          watcher: navigator.geolocation.watchPosition((data) => {
-            this.setState({
-              x: data.coords.longitude,
-              y: data.coords.latitude
-            });
-          }, {
-            enableHighAccuracy: true,
-            timeout: 1000
-          })
-        }
+        BackgroundGeolocation.on('location', (data) => {
+          if (this.refs.walking) {
+            let location = { x: data.longitude, y: data.latitude };
+            this.setState({ location });
+          }
+        });
+        BackgroundGeolocation.start();
       }).catch((error) => {
         navigate('Main');
       });
   }
   render() {
-    let text = (this.state !== null) ? 'latitude ' + this.state.x + ' longitude ' + this.state.y : '';
-
+    let text = 'latitude ' + this.state.location.x + ' longitude ' + this.state.location.y;
     return (
-      <View style={styles.container}>
+      <View style={styles.container} ref="walking">
         <StatusBar
           backgroundColor={'royalblue'}
         />
         <Text>
-           {text}
+          {text}
         </Text>
       </View>
     );
   }
   componentWillUnmount() {
-    if (this.state !== null) {
-      navigator.clearWatch(this.state.watcher);
-    }
+    BackgroundGeolocation.stop();
   }
 }
 
