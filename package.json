@@ -9,6 +9,7 @@
   "dependencies": {
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.1",
+    "react-native-android-location-services-dialog-box": "^1.2.1",
     "react-navigation": "^1.0.0-beta.11"
   },
   "devDependencies": {
@@ -19,7 +20,9 @@
   },
   "jest": {
     "preset": "react-native",
-    "setupFiles": ["./jest/setup.js"],
+    "setupFiles": [
+      "./jest/setup.js"
+    ],
     "transformIgnorePatterns": [
       "node_modules/(?!(jest-)?react-native|react-navigation|react-clone-referenced-element)"
     ]
