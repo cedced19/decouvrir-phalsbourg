@@ -10,7 +10,6 @@ import BackgroundGeolocation from 'react-native-mauron85-background-geolocation'
 
 import { Container, Content, Card, CardItem, Text, Button, Left, Body } from 'native-base';
 
-
 const points = require('../points.json');
 
 
@@ -66,8 +65,8 @@ export default class WalkingScreen extends Component {
           fastestInterval: 15000,
           activitiesInterval: 30000,
           stopOnStillActivity: false,
-          notificationIconLarge: 'small',
-          notificationIconSmall: 'small'
+          notificationIconLarge: 'icon_location',
+          notificationIconSmall: 'icon_location'
         });
         BackgroundGeolocation.on('location', (data) => {
           if (this.refs.walking) {
@@ -85,32 +84,34 @@ export default class WalkingScreen extends Component {
     distances.sort(function (a, b) {
       return a.distance - b.distance;
     });
+
     const listItems = distances.map((item) =>
-      <Text key={item.name}>{item.name} {item.distance}</Text>
+    (<Card style={{ flex: 0 }} key={item.name}>
+          <CardItem>
+              <Left>
+                  <Body>
+                      <Text>{item.name}</Text>
+                      <Text note>À {item.distance}m</Text>
+                  </Body>
+              </Left>
+          </CardItem>
+          {(typeof item.text !== 'undefined' && typeof item.image !== 'undefined') ?  (
+            <CardItem>
+                <Body>
+                    <Image style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} style={{height: item.image.height, width: item.image.width}}/>
+                    <Text>
+                        {item.text}
+                    </Text>
+                </Body>
+            </CardItem>
+          ) : null}
+     </Card>)
     );
     return (
       <Container ref="walking">
                 <StatusBar backgroundColor={'royalblue'} />
                 <Content>
-                {listItems}
-                     <Card style={{ flex: 0 }}>
-                         <CardItem>
-                             <Left>
-                                 <Body>
-                                     <Text>La Place d’Armes de Phalsbourg</Text>
-                                     <Text note>À 150m</Text>
-                                 </Body>
-                             </Left>
-                         </CardItem>
-                         <CardItem>
-                             <Body>
-                                 <Image style={{ resizeMode: 'cover' }}  source={require('../images/points/place.png')} />
-                                 <Text>
-                                     La Place d’Armes de Phalsbourg est le centre historique de Phalsbourg on y trouve statue Lobau et la mairie actuelle visible sur cette photographie de 2009.
-                                 </Text>
-                             </Body>
-                         </CardItem>
-                    </Card>
+                     {listItems}
                  </Content>
       </Container>
     );
