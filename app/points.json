@@ -1,0 +1,48 @@
+[
+   {
+      "name":"Notre-Dame de l’Assomption",
+      "x":7.257932,
+      "y":48.766775
+   },
+   {
+      "name":"Mairie",
+      "x":7.258822,
+      "y":48.767638
+   },
+   {
+      "name":"Lycée Erckmann-Chatrian",
+      "x":7.259498,
+      "y":48.76843
+   },
+   {
+      "name":"Porte d’Allemagne",
+      "x":7.260498,
+      "y":48.766534
+   },
+   {
+      "name":"Porte de France",
+      "x":7.256475,
+      "y":48.768507
+   },
+   {
+      "name":"Trois-Maisons",
+      "x":7.256711,
+      "y":48.749318
+   },
+   {
+      "name":"Buchelberg",
+      "x":7.266308,
+      "y":48.782985
+   },
+   {
+      "name":"Ancienne gare de Phalsbourg",
+      "x":7.256271,
+      "y":48.767771
+   }, {
+     "name":"La Place d’Armes de Phalsbourg",
+     "text":"La Place d’Armes de Phalsbourg est le centre historique de Phalsbourg on y trouve statue Lobau et la mairie actuelle visible sur cette photographie de 2009.",
+     "x":7.258760,
+     "y":48.767064,
+     "image_url": "place.png"
+   }
+]
