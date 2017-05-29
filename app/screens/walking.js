@@ -2,13 +2,14 @@ import React, { Component } from 'react';
 import {
   StyleSheet,
   StatusBar,
-  View,
-  Image
+  View
 } from 'react-native';
 import LocationServicesDialogBox from 'react-native-android-location-services-dialog-box';
 import BackgroundGeolocation from 'react-native-mauron85-background-geolocation';
 
 import { Container, Content, Card, CardItem, Text, Button, Left, Body } from 'native-base';
+
+import ResponsiveImage from 'react-native-responsive-image';
 
 const points = require('../points.json');
 
@@ -98,7 +99,7 @@ export default class WalkingScreen extends Component {
           {(typeof item.text !== 'undefined' && typeof item.image !== 'undefined') ?  (
             <CardItem>
                 <Body>
-                    <Image style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} style={{height: item.image.height, width: item.image.width}}/>
+                    <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={item.image.height} initWidth={item.image.width} />
                     <Text>
                         {item.text}
                     </Text>

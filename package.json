@@ -12,6 +12,7 @@
     "react-native": "0.44.1",
     "react-native-android-location-services-dialog-box": "^1.2.1",
     "react-native-mauron85-background-geolocation": "^0.2.0-alpha.7",
+    "react-native-responsive-image": "^2.1.0",
     "react-navigation": "^1.0.0-beta.11"
   },
   "devDependencies": {
