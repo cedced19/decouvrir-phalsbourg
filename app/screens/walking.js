@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import {
   StyleSheet,
   StatusBar,
-  View
+  View,
+  Dimensions
 } from 'react-native';
 import LocationServicesDialogBox from 'react-native-android-location-services-dialog-box';
 import BackgroundGeolocation from 'react-native-mauron85-background-geolocation';
@@ -62,9 +63,9 @@ export default class WalkingScreen extends Component {
           startOnBoot: false,
           stopOnTerminate: false,
           locationProvider: BackgroundGeolocation.provider.ANDROID_ACTIVITY_PROVIDER,
-          interval: 30000,
-          fastestInterval: 15000,
-          activitiesInterval: 30000,
+          interval: 5000,
+          fastestInterval: 2500,
+          activitiesInterval: 5000,
           stopOnStillActivity: false,
           notificationIconLarge: 'icon_location',
           notificationIconSmall: 'icon_location'
@@ -86,6 +87,8 @@ export default class WalkingScreen extends Component {
       return a.distance - b.distance;
     });
 
+    let { width } = Dimensions.get('window');
+
     const listItems = distances.map((item) =>
     (<Card style={{ flex: 0 }} key={item.name}>
           <CardItem>
@@ -99,7 +102,7 @@ export default class WalkingScreen extends Component {
           {(typeof item.text !== 'undefined' && typeof item.image !== 'undefined') ?  (
             <CardItem>
                 <Body>
-                    <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={item.image.height} initWidth={item.image.width} />
+                    <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={item.image.height} initWidth={width} />
                     <Text>
                         {item.text}
                     </Text>

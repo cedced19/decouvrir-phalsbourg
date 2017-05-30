@@ -16,13 +16,25 @@
    },
    {
       "name":"Porte d’Allemagne",
+      "text": "Elle date de 1680, elle permet l'accès de la forteresse de Phalsbourg par l’Est. Sur le fronton, on distingue l'écu du roi Louis XIV avec une fleur de lis. Une plaque en marbre blanc témoigne du passage de Goethe à Phalsbourg le 23 juin 1770. On peut encore distinguer une partie du fossé qui à l’époque était large de 33m et profond de 10.",
       "x":7.260498,
-      "y":48.766534
+      "y":48.766534,
+      "image": {
+        "uri":"porte_de_allemagne",
+        "height":341.5,
+        "width":512
+      }
    },
    {
       "name":"Porte de France",
+      "text": "C'est un des rares vestiges de la forteresse construite par Vauban à partir de 1674. Le décor de bas-reliefs évoque les victoires de Louis XIV. C'est de là que démarre Le Tour de France par deux Enfants, manuel qui a servi à l’apprentissage de la lecture lors de la III° République.",
       "x":7.256475,
-      "y":48.768507
+      "y":48.768507,
+      "image": {
+        "uri":"porte_de_france",
+        "height":450,
+        "width":600
+      }
    },
    {
       "name":"Trois-Maisons",
