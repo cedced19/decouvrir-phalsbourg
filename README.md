@@ -12,6 +12,7 @@
 * Photographie Place d'Armes [wikimedia.org](https://commons.wikimedia.org/wiki/File:Phalsbourg_IMG_3532.JPG)
 * Logo: plan de la ville de Phalsbourg [phalsbourg.fr](http://www.phalsbourg.fr/Le_Tourisme/L_Histoire)
 * Photographie Porte de France [structurae.info](https://structurae.info/ouvrages/porte-de-france-1680-phalsbourg)
+* Photographie Église Notre-Dame-de-l'Assomption de Phalsbourg [structurae.info](https://structurae.info/ouvrages/eglise-notre-dame-de-l-assomption-de-phalsbourg)
 
 
 ### Descriptions

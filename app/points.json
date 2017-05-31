@@ -1,8 +1,14 @@
 [
    {
-      "name":"Notre-Dame de l’Assomption",
+      "name":"Notre Dame de l’Assomption",
+      "text": "L’église Notre Dame de L’Assomption de Phalsbourg, réalisée en grès de style néo-gothique à partir du 1er mars 1874, et inaugurée en 21 mai 1876, remplace une église de style baroque détruite lors du siège de Phalsbourg en 1870. L’église devait être surmonté d'une flèche, mais elle ne fut jamais édifiée faute de financement. Les dommages de guerres accordés s’élevaient à 253 000 francs pour la destruction de l’ancienne église par l’État allemand. Guillaume Ier a offert 1500kg du bronze nécessaire à la fonte des nouvelles cloches: Nicolas, 600kg, Joseph, 850kg, et Marie, 1180kg.",
       "x":7.257932,
-      "y":48.766775
+      "y":48.766775,
+      "image": {
+        "uri":"notre_dame_de_l_assomption",
+        "height":600,
+        "width":563
+      }
    },
    {
       "name":"Mairie",
@@ -16,7 +22,7 @@
    },
    {
       "name":"Porte d’Allemagne",
-      "text": "Elle date de 1680, elle permet l'accès de la forteresse de Phalsbourg par l’Est. Sur le fronton, on distingue l'écu du roi Louis XIV avec une fleur de lis. Une plaque en marbre blanc témoigne du passage de Goethe à Phalsbourg le 23 juin 1770. On peut encore distinguer une partie du fossé qui à l’époque était large de 33m et profond de 10.",
+      "text": "Elle date de 1680, elle permet l’accès de la forteresse de Phalsbourg par l’Est. Sur le fronton, on distingue l’écu du roi Louis XIV avec une fleur de lis. Une plaque en marbre blanc témoigne du passage de Goethe à Phalsbourg le 23 juin 1770. On peut encore distinguer une partie du fossé qui à l’époque était large de 33m et profond de 10.",
       "x":7.260498,
       "y":48.766534,
       "image": {
@@ -27,7 +33,7 @@
    },
    {
       "name":"Porte de France",
-      "text": "C'est un des rares vestiges de la forteresse construite par Vauban à partir de 1674. Le décor de bas-reliefs évoque les victoires de Louis XIV. C'est de là que démarre Le Tour de France par deux Enfants, manuel qui a servi à l’apprentissage de la lecture lors de la III° République.",
+      "text": "C’est un des rares vestiges de la forteresse construite par Vauban à partir de 1674. Le décor de bas-reliefs évoque les victoires de Louis XIV. C’est de là que démarre Le Tour de France par deux Enfants, manuel qui a servi à l’apprentissage de la lecture lors de la III° République.",
       "x":7.256475,
       "y":48.768507,
       "image": {
@@ -48,7 +54,7 @@
    },
    {
       "name":"Ancienne gare de Phalsbourg",
-      "text":"Elle était desservi de 1883 à 1953 par la ligne de Lutzelbourg à Drulingen. Cette dernière était surnommée « Eselbahn » (le chemin de fer des ânes). Les voies ont un écartement d’un mètre, elles sont utilisées pour les voies dites secondaires car faciles à installer et moins chères.",
+      "text":"Elle était desservie de 1883 à 1953 par la ligne de Lutzelbourg à Drulingen. Cette dernière était surnommée « Eselbahn » (le chemin de fer des ânes). Les voies ont un écartement d’un mètre, elles sont utilisées pour les voies dites secondaires car faciles à installer et moins chères.",
       "x":7.256271,
       "y":48.767771,
       "image": {

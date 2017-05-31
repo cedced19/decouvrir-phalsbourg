@@ -87,30 +87,34 @@ export default class WalkingScreen extends Component {
       return a.distance - b.distance;
     });
 
-    let { width } = Dimensions.get('window');
 
-    const listItems = distances.map((item) =>
-    (<Card style={{ flex: 0 }} key={item.name}>
-          <CardItem>
-              <Left>
-                  <Body>
-                      <Text>{item.name}</Text>
-                      <Text note>À {item.distance}m</Text>
-                  </Body>
-              </Left>
-          </CardItem>
-          {(typeof item.text !== 'undefined' && typeof item.image !== 'undefined') ?  (
+
+    const listItems = distances.map((item) => {
+      if (typeof item.text !== 'undefined' && typeof item.image !== 'undefined') {
+        var { width } = Dimensions.get('window');
+        var height = (width * item.image.height) / item.image.width;
+      }
+      return (<Card style={{ flex: 0 }} key={item.name}>
             <CardItem>
-                <Body>
-                    <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={item.image.height} initWidth={width} />
-                    <Text>
-                        {item.text}
-                    </Text>
-                </Body>
+                <Left>
+                    <Body>
+                        <Text>{item.name}</Text>
+                        <Text note>À {item.distance}m</Text>
+                    </Body>
+                </Left>
             </CardItem>
-          ) : null}
-     </Card>)
-    );
+            {(typeof item.text !== 'undefined' && typeof item.image !== 'undefined') ?  (
+              <CardItem>
+                  <Body>
+                      <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={height} initWidth={width} />
+                      <Text>
+                          {item.text}
+                      </Text>
+                  </Body>
+              </CardItem>
+            ) : null}
+       </Card>)
+    });
     return (
       <Container ref="walking">
                 <StatusBar backgroundColor={'royalblue'} />
