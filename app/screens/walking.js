@@ -99,7 +99,11 @@ export default class WalkingScreen extends Component {
                 <Left>
                     <Body>
                         <Text>{item.name}</Text>
-                        <Text note>À {item.distance}m</Text>
+                        {(!isNaN(item.distance)) ?  (
+                          <Text note>À {item.distance}m</Text>
+                        ) : (
+                          <Text note>Distance inconnue</Text>
+                        )}
                     </Body>
                 </Left>
             </CardItem>
