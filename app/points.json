@@ -11,6 +11,17 @@
       }
    },
    {
+     "name": "Fontaine",
+     "text": "L’eau a toujours été un problème pour la ville de Phalsbourg. Au XVII° siècle, l’eau provenait de Hultehouse qui faisait partie de la principauté de Phalsbourg, les canalisations étaient en bois et passaient par Lutzelbourg. La différence de hauteur entre Hultehouse et Lutzelbourg permettait de faire remonter l’eau jusqu’à Trois-Maisons où une quatrième source est raccordée pour arriver sur la place d’Armes de Phalsbourg. C’est en 1813 que le génie militaire raccorde Phalsbourg par une conduite en pierre. En 1810, cette fontaine était la seul raccordée à cette conduite. Elle fut remplacée en 1845 par une conduite en fonte. Aujourd’hui, l’eau provient de sources qui coulent au pied du rocher de Dabo et d’un forage proche de Lutzelbourg qui permet de compléter les besoins en eau de la ville. Selon la ville de Phalsbourg, 120 litres sont consommés tous les jours par habitant.",
+     "x":7.2581982,
+     "y":48.766410,
+     "image": {
+       "uri":"fontaine",
+       "height":483,
+       "width":255
+     }
+   },
+   {
       "name":"Mairie",
       "x":7.258822,
       "y":48.767638
