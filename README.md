@@ -18,7 +18,7 @@
 ### Descriptions
 
 * Garre de Phalsbourg
-  *  [lutzelbourg.fr](https://fr.wikipedia.org/wiki/Ligne_de_Lutzelbourg_%C3%A0_Drulingen)
+  *  [lutzelbourg.fr](http://www.lutzelbourg.fr/village/historique-de-lutzelbourg-1.php)
   *  [wikipedia.org](https://fr.wikipedia.org/wiki/Ligne_de_Lutzelbourg_%C3%A0_Drulingen)
 * Porte de France [petit-patrimoine.com](http://www.petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=57540_1)
 * [phalsbourg.fr](http://www.phalsbourg.fr/Le_tourisme/Le_Patrimoine)

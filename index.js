@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { AppRegistry } from 'react-native';
 import { DrawerNavigator, StackNavigator, TabNavigator } from 'react-navigation';
 import MainScreen from './app/screens/main.js';
@@ -37,7 +37,6 @@ const MoreDetailsTabs = TabNavigator(
     }
   }
 );
-
 
 
 export default DecouvrirPhalsbourg = DrawerNavigator({

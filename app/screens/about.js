@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Container, Content, Card, CardItem, Text, Body } from 'native-base';
 import { StatusBar } from 'react-native';
-
+import OpenURLButton  from '../components/open-url.js';
 
 export default class AboutScreen extends Component {
   static navigationOptions = {
@@ -37,6 +37,9 @@ export default class AboutScreen extends Component {
                   Vous pouvez voir le fonctionnement de l’application sur GitHub.
                 </Text>
               </Body>
+            </CardItem>
+            <CardItem>
+              <OpenURLButton url={'https://github.com/cedced19/decouvrir-phalsbourg'} text={'Code source'} />
             </CardItem>
           </Card>
         </Content>
