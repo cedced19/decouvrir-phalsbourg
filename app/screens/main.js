@@ -23,13 +23,13 @@ export default class MainScreen extends Component {
         />
         <Image source={require('../images/blason.png')} style={styles.blason} />
         <Text style={styles.welcome}>
-          Bienvenue dans l'application {'\n'} "Découvrir Phalsbourg"
+          Bienvenue dans l’application {'\n'} "Découvrir Phalsbourg"
         </Text>
         <Text style={styles.instructions}>
-          Phalsbourg est actuellement peuplé d'environ 5000 habitants.
+          Phalsbourg est actuellement peuplé d’environ 5000 habitants.
         </Text>
         <Text style={styles.instructions}>
-          Découvrez, grâce à l'application, l'histoire de Phalsbourg simplement en vous baladant dans les rues à la recherche du passé...
+          Découvrez, grâce à l’application, l’histoire de Phalsbourg simplement en vous baladant dans les rues à la recherche du passé...
         </Text>
         <Button
           onPress={() => navigate('Walking')}
