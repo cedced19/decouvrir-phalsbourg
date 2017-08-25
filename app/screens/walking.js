@@ -107,13 +107,17 @@ export default class WalkingScreen extends Component {
                     </Body>
                 </Left>
             </CardItem>
-            {(typeof item.text !== 'undefined' && typeof item.image !== 'undefined') ?  (
+            {(typeof item.text !== 'undefined' || typeof item.image !== 'undefined') ?  (
               <CardItem>
                   <Body>
-                      <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={height} initWidth={width} />
-                      <Text>
-                          {item.text}
-                      </Text>
+                      {(typeof item.image !== 'undefined') ?  (
+                        <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={height} initWidth={width} />
+                      ) : null}
+                      {(typeof item.text !== 'undefined') ?  (
+                        <Text>
+                            {item.text}
+                        </Text>
+                      ) : null}
                   </Body>
               </CardItem>
             ) : null}

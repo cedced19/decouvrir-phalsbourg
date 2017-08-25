@@ -43,7 +43,8 @@ export default class SourcesScreen extends Component {
                         </Text>
                       </Body>
                       <OpenURLButton url={item.url} text={extractRootDomain(item.url)} />
-              </ListItem>)
+              </ListItem>
+              )
       });
     }
     return (
