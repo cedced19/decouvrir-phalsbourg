@@ -3,6 +3,7 @@
 
 "Découvrir Phalsbourg" is an application to discover the French town Phalsbourg by walking around the center of Phalsbourg.
 
+[Article about the creator and the app](http://www.republicain-lorrain.fr/edition-de-sarrebourg-chateau-salins/2017/08/02/cedric-jung-fait-decouvrir-la-place-d-armes-de-phalsbourg-au-monde-avec-son-appli)
 
 ## Sources utilisées
 
@@ -13,7 +14,7 @@
 * Logo: plan de la ville de Phalsbourg [phalsbourg.fr](http://www.phalsbourg.fr/Le_Tourisme/L_Histoire)
 * Photographie Porte de France [structurae.info](https://structurae.info/ouvrages/porte-de-france-1680-phalsbourg)
 * Photographie Église Notre-Dame-de-l'Assomption de Phalsbourg [structurae.info](https://structurae.info/ouvrages/eglise-notre-dame-de-l-assomption-de-phalsbourg)
-
+*
 
 ### Descriptions
 
@@ -24,3 +25,5 @@
 * [phalsbourg.fr](http://www.phalsbourg.fr/Le_tourisme/Le_Patrimoine)
 * Fontaine [reseaudescommunes.fr](http://cdn2_3.reseaudescommunes.fr:8880/cities/419/documents/gpna6s5qdet2zb.pdf)
 * Eau à Phalsbourg [phalsbourg.fr](http://www.phalsbourg.fr/La_ville/L_eau__l_assainissement)
+* Cité scolaire [lycee-erckmann-chatrian-phalsbourg.fr](http://lycee-erckmann-chatrian-phalsbourg.fr/index.php/infos-diverses/un-peu-d-histoire)
+* Sentier Botanique [jardinez.com](http://www.jardinez.com/Parcs-Sentier-Botanique-du-Brunnenthal_Phalsbourg_Moselle_Grand-Est-France_fr_805.html)
