@@ -11,6 +11,7 @@ import BackgroundGeolocation from 'react-native-mauron85-background-geolocation'
 import { Container, Content, Card, CardItem, Text, Button, Left, Body } from 'native-base';
 
 import ResponsiveImage from 'react-native-responsive-image';
+import OpenURLButton  from '../components/open-url.js';
 
 const points = require('../points.json');
 
@@ -107,8 +108,7 @@ export default class WalkingScreen extends Component {
                     </Body>
                 </Left>
             </CardItem>
-            {(typeof item.text !== 'undefined' || typeof item.image !== 'undefined') ?  (
-              <CardItem>
+            <CardItem>
                   <Body>
                       {(typeof item.image !== 'undefined') ?  (
                         <ResponsiveImage style={{ resizeMode: 'cover' }}  source={{uri: item.image.uri, isStatic: true }} initHeight={height} initWidth={width} />
@@ -118,9 +118,9 @@ export default class WalkingScreen extends Component {
                             {item.text}
                         </Text>
                       ) : null}
+                      <OpenURLButton url={`http://maps.google.com/maps?daddr=${item.y},${item.x}`} text={'S\'y rendre'} />
                   </Body>
-              </CardItem>
-            ) : null}
+            </CardItem>
        </Card>)
     });
     return (
