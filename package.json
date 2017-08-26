@@ -8,7 +8,7 @@
     "release-android": "cd android && ./gradlew assembleRelease && cp ./app/build/outputs/apk/app-release.apk ../"
   },
   "dependencies": {
-    "native-base": "^2.1.4",
+    "native-base": "2.1.4",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.1",
     "react-native-android-location-services-dialog-box": "^1.2.1",

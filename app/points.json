@@ -65,6 +65,17 @@
       "y":48.782985
    },
    {
+      "name":"Le lavoir du Brunnenthal",
+      "text":"Il est composé de deux bassins, le premier, le plus haut était réservé jusque vers 1960 pour le rinçage du linge et le deuxième, plus bas pour laver le linge. Il était utilisé par les habitants de Bois de Chêne du Bas ainsi que par certains Phalsbourgeois. Le lavoir était connu à l’époque pour la qualité de son eau. A partir de 1960, le lavoir est délaissé jusque 1996, où la ville de Phalsbourg décide de préserver son patrimoine et de restaurer le lavoir. Le Brunnenthal est une vallée riche en sources comme l'indique son nom: \"thal\" signifiant vallée (aujourd'hui orthographié \"tal\" en allemand) et \"brunnen\" fontaine. Le lavoir fait partie du Sentier Botanique du Brunnenthal où une trentaine de panneaux renseignent le visiteur sur les principales essences de la forêt des Voges du Nord.",
+      "x":7.265522,
+      "y":48.757018,
+      "image": {
+        "uri":"lavoir_brunnenthal",
+        "height":229,
+        "width":381
+      }
+   },
+   {
       "name":"Ancienne gare de Phalsbourg",
       "text":"Elle était desservie de 1883 à 1953 par la ligne de Lutzelbourg à Drulingen. Cette dernière était surnommée « Eselbahn » (le chemin de fer des ânes). Les voies ont un écartement d’un mètre, elles sont utilisées pour les voies dites secondaires car faciles à installer et moins chères.",
       "x":7.256271,

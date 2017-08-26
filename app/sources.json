@@ -21,8 +21,12 @@
       "url": "http://www.phalsbourg.fr/La_ville/L_eau__l_assainissement"
     },
     {
-      "name": "Lycée Erckmann-Chatrian",
+      "name": "Cité scolaire",
       "url":  "http://lycee-erckmann-chatrian-phalsbourg.fr/index.php/infos-diverses/un-peu-d-histoire"
+    },
+    {
+      "name": "Sentier Botanique",
+      "url":  "http://www.jardinez.com/Parcs-Sentier-Botanique-du-Brunnenthal_Phalsbourg_Moselle_Grand-Est-France_fr_805.html"
     }
   ],
   "images": [
