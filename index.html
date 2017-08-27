@@ -116,7 +116,7 @@
         font-weight: normal;
       }
       .google-play-button {
-        max-width: 50%;
+        max-width: 55%;
       }
       iframe.github-stars {
           margin-left: 1rem;
@@ -136,6 +136,43 @@
       }
       .howto-step > p {
         padding: 0.4rem 0;
+      }
+      footer .nav-container {
+          background-color: #3d3d3d;
+          transition: background-color .5s ease-in;
+          color: #CCC;
+          padding: 3rem;
+      }
+      footer .nav-container .flex {
+          display: flex;
+          justify-content: space-between;
+          flex-wrap: wrap;
+      }
+      footer .col, footer nav {
+          padding: 1rem 2rem 1rem 0;
+      }
+      footer .col .logo {
+          height: 5rem;
+          margin-bottom: 1rem;
+          margin-top: 0.25rem;
+      }
+      footer .col a {
+          text-decoration: underline;
+          color: inherit;
+      }
+      footer nav a {
+          color: inherit;
+          display: block;
+          margin: .5rem 0;
+      }
+      footer h6 {
+          font-size: 1.2rem;
+          font-weight: normal;
+          margin-bottom: 1rem;
+          color: #FFF;
+      }
+      a {
+        cursor: pointer;
       }
       @media (max-width: 1000px) {
         .banner {
@@ -171,7 +208,14 @@
             padding: 0;
         }
       }
-
+      @media (max-width: 500px){
+        .google-play-button {
+          max-width: 60%;
+        }
+        iframe.github-stars {
+            display: none;
+        }
+      }
       .howto-step img {
           max-width: 100%;
           border-radius: 3px;
@@ -270,5 +314,21 @@
   			</div>
       </div>
     </section>
+    <footer>
+
+  	<div class="nav-container">
+  		<div class="flex content">
+  			<div class="col">
+          <h6>Découvrir Phalsbourg</h6>
+  				<img src="/assets/images/footer.png" class="logo" alt="Découvrir Phalsbourg">
+          <br>
+  				Un projet de <a href="/fr/">Cédric JUNG</a>
+  			</div>
+  			<nav>
+  				<h6>Liens utiles</h6>
+  				<a href="/fr/license">Licence</a>
+  			</nav>
+  	</div>
+  </footer>
   </body>
 </html>
