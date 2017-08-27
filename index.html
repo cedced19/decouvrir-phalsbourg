@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Découvrir Phalsbourg</title>
+    <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
+    <link rel="icon" href="./favicon.ico" type="image/x-icon">
+    <style media="screen">
+      body {
+          font-family: 'Source Sans Pro', sans-serif;
+          -webkit-font-smoothing: antialiased;
+      }
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
+      header {
+        overflow: hidden;
+        background-size:100%;
+        background-image: linear-gradient(0deg, #0fe48c 0%, #2a9def 100%);
+        background-repeat: no-repeat;
+      }
+      header, section, main {
+          padding: 3rem;
+      }
+      article, aside, footer, header, hgroup, main, nav, section {
+          display: block;
+      }
+      a {
+        text-decoration: none;
+        color: #168ff9;
+      }
+      .content {
+        max-width: 1200px;
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        z-index: 2;
+      }
+      h1 {
+          margin: 3rem 0;
+          top: 0;
+      }
+      header h1 {
+        font-size: 4rem;
+        color: #FFF;
+        position: relative;
+        top: 2rem;
+        margin-top: 1rem;
+        text-transform: uppercase;
+        letter-spacing: 0;
+        display: block;
+        line-height: 1em;
+        font-size: 8rem;
+        text-transform: uppercase;
+      }
+      .media {
+        border-top: none;
+        background: #fff;
+        padding-bottom: 0;
+        font-size: 1.2rem;
+        font-weight: normal;
+        text-align: center;
+        padding: 2rem 3rem 4rem;
+        color: #777;
+        line-height: 4rem;
+      }
+
+      .media a {
+          margin: 0 1.5rem;
+      }
+      .banner {
+          flex-direction: column;
+      }
+      .banner > div {
+          position: relative;
+          width: 50%;
+      }
+      h2 {
+          font-size: 4rem;
+          font-family: inherit;
+          font-weight: 300;
+          margin: 3rem auto;
+          text-align: center;
+          line-height: 1.1em;
+      }
+      header h2 {
+          font-size: 2rem;
+          font-weight: normal;
+          max-width: 30rem;
+          margin: 2rem 0;
+          font-family: inherit;
+          text-align: left;
+          color: #fff;
+      }
+      h3 {
+        font-size: 25px;
+        font-weight: normal;
+      }
+      .google-play-button {
+        max-width: 50%;
+      }
+      iframe.github-stars {
+          margin-left: 1rem;
+          vertical-align: middle;
+          display: block;
+      }
+      .howto {
+          display: flex;
+          flex-wrap: wrap;
+          align-items: center;
+      }
+      .howto-step {
+          padding: 1rem 3rem;
+          flex-basis: 50%;
+          flex-grow: 1;
+          min-width: 400px;
+      }
+      .howto-step > p {
+        padding: 0.4rem 0;
+      }
+      @media (max-width: 1000px) {
+        .banner {
+            flex-direction: column;
+        }
+        .banner > div {
+          width: 100%;
+          text-align: center;
+        }
+        header h1 {
+          font-size: 3rem;
+        }
+        h1, header h2 {
+            text-align: center;
+            max-width: none;
+        }
+      }
+      @media (max-width: 850px){
+        header h1 {
+            font-size: 2.5rem;
+            top: 1.5rem;
+        }
+      }
+      @media (max-width: 600px){
+        h2 {
+            font-size: 3rem;
+            font-weight: bold;
+        }
+        .howto-step {
+            overflow: hidden;
+            min-width: 0;
+            flex-basis: 100%;
+            padding: 0;
+        }
+      }
+
+      .howto-step img {
+          max-width: 100%;
+          border-radius: 3px;
+      }
+      ::selection {
+        background-color: #2a9def;
+        color: #fff
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="banner content">
+        <div>
+          <h1>Découvrir Phalsbourg</h1>
+          <h2>
+						Une application pour découvrir la ville de Phalsbourg !
+					</h2>
+          <a href="https://play.google.com/store/apps/details?id=com.decouvrirphalsbourg&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><img alt="Disponible sur Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/fr_badge_web_generic.png" class="google-play-button"/></a>
+          <iframe class="github-stars" src="https://ghbtns.com/github-btn.html?user=cedced19&repo=decouvrir-phalsbourg&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+        </div>
+      </div>
+    </header>
+    <div class="media">
+      <div class="content">
+        Ils en parlent:
+        <br>
+        <a href="http://www.republicain-lorrain.fr/edition-de-sarrebourg-chateau-salins/2017/08/02/cedric-jung-fait-decouvrir-la-place-d-armes-de-phalsbourg-au-monde-avec-son-appli"><img src="/assets/images/rep_lorrain.gif" alt="Le Républicain Lorrain" style="max-height: 50px;"></a>
+      </div>
+    </div>
+
+    <section class="content">
+      <h2>Comment ça marche</h2>
+      <div class="howto">
+        <div class="howto-step">
+  					<p>
+              Lorsque vous commencez votre balade l'application commence à vous géolocaliser à l'aide du GPS de votre téléphone.
+            </p>
+            <p>
+              Elle calcule ensuite grâce à la  <a href="https://en.wikipedia.org/wiki/Haversine_formula">formule de l’haversine</a> votre distance par rapport au lieu à visiter dans Phalsbourg.
+            </p>
+            <p>
+              Elle classe ensuite ces lieux en fonction de votre distance avec eux, et vous indique ainsi le lieu le plus proche de vous à visiter.
+            </p>
+  			</div>
+        <div class="howto-step">
+  					  <img src="/assets/images/screenshot.jpg" alt="Capture d'écran">
+  			</div>
+      </div>
+
+      <h2>Comment ajouter un lieu</h2>
+      <div class="howto">
+        <div class="howto-step">
+            <h3>1. Trouver un lieu</h3>
+  					<p>
+  						Il vous faut trouver un lieu d'interet historique en rapport avec la ville de Phalsbourg.
+  					</p>
+            <p>
+              Ce lieu peut tout aussi bien être un édifice, un lavoir, une statue, qu'une rue ou même un village voisin.
+            </p>
+  			</div>
+        <div class="howto-step">
+  					  <img src="/assets/images/bg.jpg" alt="Place d'Armes de Phalsbourg">
+  			</div>
+        <div class="howto-step">
+  					<h3>2. Se renseigner</h3>
+  					<p>
+  						Il faut obtenir des informations fiables sur le lieu en question.
+  					</p>
+            <p>
+              Chaque lieu qui a une description a également des sources prouvent de la véracité des informations.
+            </p>
+  			</div>
+        <div class="howto-step">
+  					<h3>3. S'y rendre</h3>
+  					<p>
+  						Une description est plus intéressante lorsqu'il y a une ou plusieurs images.
+  					</p>
+            <p>
+              Le plus intéressant est de prendre des photographies actuelles du lieu et d'obtenir des images d'archives du lieu en question afin de voir son évolution.
+              <br>
+              <i>Si vous trouvez des images d'archives, vous devrez en indiquer la source.</i>
+            </p>
+            <p>
+              Vous pouvez profiter de votre déplacement pour obtenir la longitude et la latitude du lieu nécessaire à son ajout dans l'application.
+            </p>
+  			</div>
+        <div class="howto-step">
+  					<h3>4. Nous contacter</h3>
+  					<p>
+  						Une fois toutes ces informations réunies il vous suffit de nous envoyer un email avec tout les éléments que vous avez récolter à l'adresse suivante:  <a href="mailto:cedced19@gmail.com">cedced19@gmail.com</a>
+  					</p>
+            <p>
+              Vous serez rajouter, si vous le souhaitez, à la liste des contributeurs.
+            </p>
+  			</div>
+      </div>
+    </section>
+  </body>
+</html>

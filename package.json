@@ -1,34 +1,19 @@
 {
-  "name": "DecouvrirPhalsbourg",
-  "version": "0.0.1",
-  "private": true,
+  "name": "decouvrir-phalsbourg-website",
+  "version": "0.0.0",
+  "description": "Website of the app \"Découvrir Phalsbourg\"",
+  "main": "index.js",
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest",
-    "release-android": "cd android && ./gradlew assembleRelease && cp ./app/build/outputs/apk/app-release.apk ../"
+    "dev": "browser-sync start --server --files \"*\""
   },
-  "dependencies": {
-    "native-base": "2.1.4",
-    "react": "16.0.0-alpha.6",
-    "react-native": "0.44.1",
-    "react-native-android-location-services-dialog-box": "^1.2.1",
-    "react-native-mauron85-background-geolocation": "^0.2.0-alpha.7",
-    "react-native-responsive-image": "^2.1.0",
-    "react-navigation": "^1.0.0-beta.11"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedced19/decouvrir-phalsbourg.git"
   },
-  "devDependencies": {
-    "babel-jest": "20.0.3",
-    "babel-preset-react-native": "1.9.2",
-    "jest": "20.0.4",
-    "react-test-renderer": "16.0.0-alpha.6"
+  "author": "Cédric JUNG <cedced19@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedced19/decouvrir-phalsbourg/issues"
   },
-  "jest": {
-    "preset": "react-native",
-    "setupFiles": [
-      "./jest/setup.js"
-    ],
-    "transformIgnorePatterns": [
-      "node_modules/(?!(jest-)?react-native|react-navigation|react-clone-referenced-element|native-base|@shoutem/animation)"
-    ]
-  }
+  "homepage": "https://cedced19.github.io/decouvrir-phalsbourg/"
 }
