@@ -1,0 +1,201 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+  overflow: hidden;
+  background-size:100%;
+  background-image: linear-gradient(0deg, #0fe48c 0%, #2a9def 100%);
+  background-repeat: no-repeat;
+}
+header, section, main {
+    padding: 3rem;
+}
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+a {
+  text-decoration: none;
+  color: #168ff9;
+}
+.content {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  z-index: 2;
+}
+h1 {
+    margin: 3rem 0;
+    top: 0;
+}
+header h1 {
+  font-size: 4rem;
+  color: #FFF;
+  position: relative;
+  top: 2rem;
+  margin-top: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  display: block;
+  line-height: 1em;
+  font-size: 8rem;
+  text-transform: uppercase;
+}
+.media {
+  border-top: none;
+  background: #fff;
+  padding-bottom: 0;
+  font-size: 1.2rem;
+  font-weight: normal;
+  text-align: center;
+  padding: 2rem 3rem 4rem;
+  color: #777;
+  line-height: 4rem;
+}
+
+.media a {
+    margin: 0 1.5rem;
+}
+.banner {
+    flex-direction: column;
+}
+.banner > div {
+    position: relative;
+    width: 50%;
+}
+h2 {
+    font-size: 4rem;
+    font-family: inherit;
+    font-weight: 300;
+    margin: 3rem auto;
+    text-align: center;
+    line-height: 1.1em;
+}
+header h2 {
+    font-size: 2rem;
+    font-weight: normal;
+    max-width: 30rem;
+    margin: 2rem 0;
+    font-family: inherit;
+    text-align: left;
+    color: #fff;
+}
+h3 {
+  font-size: 25px;
+  font-weight: normal;
+}
+.google-play-button {
+  max-width: 55%;
+}
+iframe.github-stars {
+    margin-left: 1rem;
+    vertical-align: middle;
+    display: block;
+}
+.howto {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.howto-step {
+    padding: 1rem 3rem;
+    flex-basis: 50%;
+    flex-grow: 1;
+    min-width: 400px;
+}
+.howto-step > p {
+  padding: 0.4rem 0;
+}
+footer .nav-container {
+    background-color: #3d3d3d;
+    transition: background-color .5s ease-in;
+    color: #CCC;
+    padding: 3rem;
+}
+footer .nav-container .flex {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+footer .col, footer nav {
+    padding: 1rem 2rem 1rem 0;
+}
+footer .col .logo {
+    height: 5rem;
+    margin-bottom: 1rem;
+    margin-top: 0.25rem;
+}
+footer .col a {
+    text-decoration: underline;
+    color: inherit;
+}
+footer nav a {
+    color: inherit;
+    display: block;
+    margin: .5rem 0;
+}
+footer h6 {
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-bottom: 1rem;
+    color: #FFF;
+}
+a {
+  cursor: pointer;
+}
+@media (max-width: 1000px) {
+  .banner {
+      flex-direction: column;
+  }
+  .banner > div {
+    width: 100%;
+    text-align: center;
+  }
+  header h1 {
+    font-size: 3rem;
+  }
+  h1, header h2 {
+      text-align: center;
+      max-width: none;
+  }
+}
+@media (max-width: 850px){
+  header h1 {
+      font-size: 2.5rem;
+      top: 1.5rem;
+  }
+}
+@media (max-width: 600px){
+  h2 {
+      font-size: 3rem;
+      font-weight: bold;
+  }
+  .howto-step {
+      overflow: hidden;
+      min-width: 0;
+      flex-basis: 100%;
+      padding: 0;
+  }
+}
+@media (max-width: 500px){
+  .google-play-button {
+    max-width: 60%;
+  }
+  iframe.github-stars {
+      display: none;
+  }
+}
+.howto-step img {
+    max-width: 100%;
+    border-radius: 3px;
+}
+::selection {
+  background-color: #2a9def;
+  color: #fff
+}
