@@ -5,7 +5,8 @@ import {
   Text,
   View,
   Button,
-  Image
+  Image,
+  Linking
 } from 'react-native';
 
 
@@ -26,16 +27,19 @@ export default class MainScreen extends Component {
           Bienvenue dans l’application {'\n'} "Découvrir Phalsbourg"
         </Text>
         <Text style={styles.instructions}>
-          Phalsbourg est actuellement peuplé d’environ 5000 habitants.
+          La ville de Phalsbourg, fondée en 1570 par le comte palatin Georges-Jean de Veldenz, est actuellement peuplé d’environ 5000 habitants. La ville prend le nom de Pfalzburg, « Pfalz » signifiant Palatinat et « Burg » forteresse. Par manque d’argent, la ville est cédée au duc de Lorraine dès 1590. La commune est annexé au Royaume de France en 1661. En 1670, Vauban remanie les fortifications de la ville encore visible aujourd’hui.
         </Text>
         <Text style={styles.instructions}>
-          Découvrez, grâce à l’application, l’histoire de Phalsbourg simplement en vous baladant dans les rues à la recherche du passé...
+          Découvrez, l’histoire de Phalsbourg simplement en vous baladant dans les rues à la recherche du passé...
         </Text>
         <Button
           onPress={() => navigate('Walking')}
           title="Démarrer"
           accessibilityLabel="Commencer à découvrir la ville."
         />
+        <Text style={styles.contribute} onPress={() => Linking.openURL(`https://cedced19.github.io/decouvrir-phalsbourg/`)}>
+          Contribuer au projet
+        </Text>
       </View>
     );
   }
@@ -54,12 +58,19 @@ const styles = StyleSheet.create({
     margin: 10,
   },
   instructions: {
-    textAlign: 'center',
     color: '#333333',
+    marginLeft: 8,
+    marginRight: 8,
     marginBottom: 5,
   },
   blason: {
     width: 100,
     height: 110
+  },
+  contribute: {
+    position: 'absolute',
+    bottom: 10,
+    textAlign: 'center',
+    color: '#3498db'
   }
 });
