@@ -27,7 +27,7 @@ export default class MainScreen extends Component {
           Bienvenue dans l’application {'\n'} "Découvrir Phalsbourg"
         </Text>
         <Text style={styles.instructions}>
-          La ville de Phalsbourg, fondée en 1570 par le comte palatin Georges-Jean de Veldenz, est actuellement peuplé d’environ 5000 habitants. La ville prend le nom de Pfalzburg, « Pfalz » signifiant Palatinat et « Burg » forteresse. Par manque d’argent, la ville est cédée au duc de Lorraine dès 1590. La commune est annexé au Royaume de France en 1661. En 1670, Vauban remanie les fortifications de la ville encore visible aujourd’hui.
+          La ville de Phalsbourg, fondée en 1570 par le comte palatin Georges-Jean de Veldenz, est actuellement peuplée d’environ 5000 habitants. La ville prend le nom de Pfalzburg, « Pfalz » signifiant Palatinat et « Burg » forteresse. Par manque d’argent, la ville est cédée au duc de Lorraine dès 1590. La commune est annexée au Royaume de France en 1661. En 1670, Vauban remanie les fortifications de la ville encore visibles aujourd’hui.
         </Text>
         <Text style={styles.instructions}>
           Découvrez, l’histoire de Phalsbourg simplement en vous baladant dans les rues à la recherche du passé...
