@@ -85,6 +85,17 @@
         "height":195,
         "width":320
       }
+   },
+   {
+      "name":"Château d’Einartzhausen",
+      "text":"Les fondations du château datent de 1560. Il est inscrit aux monuments historiques depuis 1937. Il tire son nom de sa proximité avec un village voisin, situé sur les terres constituant la dot de la princesse Anna Maria que Georges-Jean de Veldenz a épousée. Ce dernier en a ordonné la construction et en a fait sa résidence. Vauban, ministre de la guerre, a fait intégrer le château dans un bastion, pour cela le rez-de-chaussée a été remblayé. On accède donc aujourd’hui au château par le premier étage. Il a été restaurer à la fin du XIX° siècle. La ville s’en est alors servit comme auberge de jeunesse comme on peut le voir sur la photographie ci-dessus. Le château sert encore dans certaines manifestations comme le festival.",
+      "x":7.260518,
+      "y":48.76588,
+      "image": {
+        "uri":"chateau",
+        "height":1012,
+        "width":708
+      }
    }, {
      "name":"La Place d’Armes de Phalsbourg",
      "text":"La Place d’Armes de Phalsbourg est le centre historique de Phalsbourg: on y trouve la statue Lobau et la mairie actuelle visible sur cette photographie de 2009.",
