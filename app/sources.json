@@ -31,7 +31,11 @@
     {
       "name": "Château d’Einartzhausen",
       "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Einartzhausen"
-    }
+    },
+    {
+      "name": "Hôtel de ville",
+      "url": "http://www.petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=57540_11"
+    },
   ],
   "images": [
     {
@@ -53,6 +57,10 @@
     {
       "name": "Notre-Dame-de-l'Assomption de Phalsbourg ",
       "url":  "https://structurae.info/ouvrages/eglise-notre-dame-de-l-assomption-de-phalsbourg"
+    },
+    {
+      "name": "Hôtel de ville",
+      "url": "http://webmuseo.com/ws/musee-phalsbourg/app/report/index.html1"
     }
   ]
 }
