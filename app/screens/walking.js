@@ -95,16 +95,18 @@ export default class WalkingScreen extends Component {
         var { width } = Dimensions.get('window');
         var height = (width * item.image.height) / item.image.width;
       }
+      if (!isNaN(item.distance)) {
+        if (item.distance > 1000) item.distance = Math.round(item.distance/1000) + 'k';
+        item.distance = 'À ' + item.distance + 'm';
+      } else {
+        item.distance = 'Distance inconnue';
+      }
       return (<Card style={{ flex: 0 }} key={item.name}>
             <CardItem>
                 <Left>
                     <Body>
                         <Text>{item.name}</Text>
-                        {(!isNaN(item.distance)) ?  (
-                          <Text note>À {item.distance}m</Text>
-                        ) : (
-                          <Text note>Distance inconnue</Text>
-                        )}
+                        <Text note> {item.distance}</Text>
                     </Body>
                 </Left>
             </CardItem>
@@ -118,7 +120,12 @@ export default class WalkingScreen extends Component {
                             {item.text}
                         </Text>
                       ) : null}
-                      <OpenURLButton url={`http://maps.google.com/maps?daddr=${item.y},${item.x}`} text={'S’y rendre'} />
+                      {(typeof item.mapbutton == 'undefined' && !item.mapbutton) ?  (
+                        <OpenURLButton url={`http://maps.google.com/maps?daddr=${item.y},${item.x}`} text={'S’y rendre'} />
+                      ) : null}
+                      {(typeof item.custombutton !== 'undefined') ?  (
+                      <OpenURLButton url={item.custombutton.url} text={item.custombutton.title} />
+                      ) : null}
                   </Body>
             </CardItem>
        </Card>)
