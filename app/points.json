@@ -128,5 +128,16 @@
         "height":801,
         "width":755
       }
+   },
+   {
+      "name":"Lutzelbourg",
+      "text": "Village situé à environ 4km du centre de Phalsbourg, il joue un grand rôle dans l'histoire de Phalsbourg. Lutzelbourg est situé dans la vallée de la Zorn où passe le canal de la Marne au Rhin ouvert en 1853. Sur cette illustration on peut voir la gare ouverte en 1851. Au second plan, on peut voir les ruines château du XI° tandis qu'en arrière plan on peut apercevoir quelques maisons de Trois-Maisons du bas.",
+      "x":7.250971,
+      "y":48.73518,
+      "image": {
+        "uri":"lutzelbourg",
+        "height":466,
+        "width":700
+      }
    }
 ]
