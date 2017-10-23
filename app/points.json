@@ -139,5 +139,16 @@
         "height":466,
         "width":700
       }
+   },
+   {
+      "name":"Saverne",
+      "text": "Sur cette illustration on peut voir au premier plan la gare de Saverne mise en service en 1851. Au second plan on peut voir le château des Rohan construit à la fin du XVIII° siècle.\nEn arrière plan, on  peut observer des châteaux de l’époque médiévale qui permettaient le contrôle de la région. Respectivement de gauche à droite : le Petit-Geroldseck du XIII° le Grand-Geroldseck, le Haut-Barr, le Greifenstein du XII° siècle.\nCette illustration montre bien l’importance qu’a la vallée de la Zorn pour la région : elle est le carrefour entre l’Alsace et la Lorraine. On retrouve alors l’une des raisons de la fondation du château d’Einartzhausen, maintenant au centre de Phalsbourg: contrôler le passage important entre ces deux grandes régions.",
+      "x":7.362372,
+      "y":48.74466,
+      "image": {
+        "uri":"saverne",
+        "height":466,
+        "width":700
+      }
    }
 ]
