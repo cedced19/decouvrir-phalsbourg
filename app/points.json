@@ -159,12 +159,32 @@
    {
       "name":"Panneau du Club Vosgien",
       "text": "Crée à Saverne 1872 par M. Richard Stieve, le Club Vosgien a pour but de mettre en place de nouveaux sentiers, d'entretenir et de baliser les sentiers existants dans le Massif vosgien.\nL'association du Club Vosgien de Phalsbourg-Lutzelbourg est l'une des plus anciennes, elle fut créé en 1874. En 2017, l'association compte plus de 500 membres.\nIl permet découvrir la beauté de la montagne, son intérêt historique, son patrimoine, ses richesses naturelles.\nSur cette photographie, un panneau en face de l'ancien tribunal donne le départ de plusieurs sentiers. On peut y remarquer les différents symboles communs à tout les Clubs Vosgiens pour le balisage.\nLa devise du Club Vosgien est  \"Un jour de sentier = Huit jours de Santé\".",
-      "x":7.262367,
-      "y":48.76672,
+      "x":7.262260,
+      "y":48.76675,
       "image": {
         "uri":"club_vosgien",
         "height":1074,
         "width":1000
+      }
+   },
+   {
+      "name":"Synagogue",
+      "x":7.257515,
+      "y":48.76763,
+      "image": {
+        "uri":"synagogue",
+        "height":750,
+        "width":500
+      }
+   },
+   {
+      "name":"Monument aux morts",
+      "x":7.253753,
+      "y":48.76800,
+      "image": {
+        "uri":"monument_aux_morts",
+        "height":750,
+        "width":500
       }
    }
 ]

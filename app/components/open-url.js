@@ -23,7 +23,7 @@ export default class OpenURLButton extends Component {
 
   render() {
     return (
-        <Button info onPress={this.handleClick}>
+        <Button info style={{marginTop: 5}} onPress={this.handleClick}>
           <Text style={{color: 'white'}}>{this.props.text}</Text>
         </Button>
     );

@@ -91,7 +91,7 @@ export default class WalkingScreen extends Component {
 
 
     const listItems = distances.map((item) => {
-      if (typeof item.text !== 'undefined' && typeof item.image !== 'undefined') {
+      if (typeof item.image !== 'undefined') {
         var { width } = Dimensions.get('window');
         var height = (width * item.image.height) / item.image.width;
       }
