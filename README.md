@@ -20,10 +20,11 @@
 * Photographie Porte de France [structurae.info](https://structurae.info/ouvrages/porte-de-france-1680-phalsbourg)
 * Photographie Église Notre-Dame-de-l'Assomption de Phalsbourg [structurae.info](https://structurae.info/ouvrages/eglise-notre-dame-de-l-assomption-de-phalsbourg)
 * Hôtel de ville [webmuseo.com](http://webmuseo.com/ws/musee-phalsbourg/app/report/index.html1)
+* Saverne et Lutzelbourg [bacm.creditmutuel.fr](http://www.bacm.creditmutuel.fr/fr/maugendre.html)
 
 ### Descriptions
 
-* Garre de Phalsbourg
+* Gare de Phalsbourg
   *  [lutzelbourg.fr](http://www.lutzelbourg.fr/village/historique-de-lutzelbourg-1.php)
   *  [wikipedia.org](https://fr.wikipedia.org/wiki/Ligne_de_Lutzelbourg_%C3%A0_Drulingen)
 * Porte de France [petit-patrimoine.com](http://www.petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=57540_1)
@@ -34,3 +35,4 @@
 * Sentier Botanique [jardinez.com](http://www.jardinez.com/Parcs-Sentier-Botanique-du-Brunnenthal_Phalsbourg_Moselle_Grand-Est-France_fr_805.html)
 * Château d’Einartzhausen [wikipedia.org](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Einartzhausen)
 * Hôtel de ville [petit-patrimoine.com](http://www.petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=57540_11)
+* Club Vosgien [clubvosgienphalsbourglutzelbourg.com](http://www.clubvosgienphalsbourglutzelbourg.com)

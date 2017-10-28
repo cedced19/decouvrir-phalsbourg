@@ -8,10 +8,12 @@ import {
 import LocationServicesDialogBox from 'react-native-android-location-services-dialog-box';
 import BackgroundGeolocation from 'react-native-mauron85-background-geolocation';
 
-import { Container, Content, Card, CardItem, Text, Button, Left, Body } from 'native-base';
+import { Container, Content, Card, CardItem, Text, Button, Left, Grid, Col, Body } from 'native-base';
 
 import ResponsiveImage from 'react-native-responsive-image';
 import OpenURLButton  from '../components/open-url.js';
+
+import Icon from 'react-native-vector-icons/EvilIcons';
 
 const points = require('../points.json');
 
@@ -120,12 +122,21 @@ export default class WalkingScreen extends Component {
                             {item.text}
                         </Text>
                       ) : null}
-                      {(typeof item.mapbutton == 'undefined' && !item.mapbutton) ?  (
-                        <OpenURLButton url={`http://maps.google.com/maps?daddr=${item.y},${item.x}`} text={'S’y rendre'} />
-                      ) : null}
-                      {(typeof item.custombutton !== 'undefined') ?  (
-                        <OpenURLButton url={item.custombutton.url} text={item.custombutton.title} />
-                      ) : null}
+                      <Grid>
+                        <Col>
+                          {(typeof item.mapbutton == 'undefined' && !item.mapbutton) ?  (
+                            <OpenURLButton url={`http://maps.google.com/maps?daddr=${item.y},${item.x}`} text={'S’y rendre'} style={{flex: 1}} />
+                          ) : null}
+                          {(typeof item.custombutton !== 'undefined') ?  (
+                            <OpenURLButton url={item.custombutton.url} text={item.custombutton.title} />
+                          ) : null}
+                        </Col>
+                        <Col>
+                          <Button bordered light style={{alignSelf: 'flex-end', marginTop: 5}}>
+                            <Icon name='chevron-right' size={60}   />
+                          </Button>
+                        </Col>
+                      </Grid>
                   </Body>
             </CardItem>
        </Card>)
