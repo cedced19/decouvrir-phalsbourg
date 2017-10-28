@@ -25,7 +25,12 @@
       "name":"Lycée Erckmann-Chatrian",
       "text": "C’est sous le Consulat, à la suite du décret promulgué le 19 Messidor de l’An XI  (8 Juillet 1803), que ce bâtiment a été utilisé pour la première fois à usage scolaire sous le nom de « «Collège de Phalsbourg » . Il accueillait alors 60 pensionnaires. De 1739 à la Révolution, l’édifice était un couvent des Frères Mineurs Capucins (d’où le surnom « Capucinière »). On peut d’ailleurs toujours apercevoir l’architecture d’un couvent en regardant attentivement les anciens bâtiments de la cité scolaire actuelle..\nLe Lycée porte aujourd’hui le  nom de deux anciens élèves écrivains Émile Erckmann et Alexandre Chatiran, connu sous le nom de plume Erckmann-Chatrian. Leur roman « Les Années de Collège de Maître Nablot » rapporte la vie des élèves internes du XIX°.\nC’est en 1876 que les Allemands, après l’annexion de l’Alsace-Lorraine fondent une École Normale dite « Kaiserliches Lehrerseminar » qui aura formé plus d’une centaine d’instituteurs jusqu’en 1921.  Elle laissera place à l’École Primaire Supérieur qui subsista jusqu’en 1940.\nSous l’Occupation, entre 1940 et 1944, elle fut une « Staatliche Oberschule » niant les droits de l’Homme, et enseignant la propagande nazie.\nPendant tous les conflits endurés par Phalsbourg depuis 1814, les édifices servirent à loger et soigner les troupes. La salle des fêtes actuelle servait, par exemple, d’infirmerie durant la Grande Guerre lorsque celui-ci fut transformé en « Reservelazarett ».  Durant l’hiver 1944/45, elle abrita même la 7° Armée Américaine.\nC’est en 1945 que la Capucinière redevient un paisible collège, puis lycée en 1955. De nouveaux bâtiment ont été construits en 1966 à la place de l’ancien Arsenal pour abriter les élèves de plus en plus nombreux. En 2016 a commencé la rénovation de la cantine vieillissante.\nDepuis sa création, la Capucinière a accueillit près de dix-huit mille élèves.  On peut citer parmi eux :  Henry Villard qui deviendra aux Etats-Unis le PDG de la Northern Pacific Railroad, ou encore, Jean Laurain Ministre des Anciens Combattants entre 1981 et 1986. Et plusieurs écrivains : Erckmann-Chatrian, Alfred Erckmann, Guillaume Musso, Bernadette Braun, Louis Engel, Anton Largiader, Wilhelm Kahl, Gaston-Paul Effa, Louis Hollender, Yvonne Hoffmann, Paul Kittel, Gustave Koch et d’autres encore. Miss France 1973, Isabelle Krumacker, était aussi passée par la cité scolaire ainsi que Cédric Jung, qui a créé cette application lors de son année de première.",
       "x":7.259498,
-      "y":48.76843
+      "y":48.76843,
+      "image": {
+        "uri":"lycee",
+        "height":500,
+        "width":750
+      }
    },
    {
       "name":"Porte d’Allemagne",
@@ -149,6 +154,17 @@
         "uri":"saverne",
         "height":466,
         "width":700
+      }
+   },
+   {
+      "name":"Panneau du Club Vosgien",
+      "text": "Crée à Saverne 1872 par M. Richard Stieve, le Club Vosgien a pour but de mettre en place de nouveaux sentiers, d'entretenir et de baliser les sentiers existants dans le Massif vosgien.\nL'association du Club Vosgien de Phalsbourg-Lutzelbourg est l'une des plus anciennes, elle fut créé en 1874. En 2017, l'association compte plus de 500 membres.\nIl permet découvrir la beauté de la montagne, son intérêt historique, son patrimoine, ses richesses naturelles.\nSur cette photographie, un panneau en face de l'ancien tribunal donne le départ de plusieurs sentiers. On peut y remarquer les différents symboles communs à tout les Clubs Vosgiens pour le balisage.\nLa devise du Club Vosgien est  \"Un jour de sentier = Huit jours de Santé\".",
+      "x":7.262367,
+      "y":48.76672,
+      "image": {
+        "uri":"club_vosgien",
+        "height":1074,
+        "width":1000
       }
    }
 ]

@@ -124,7 +124,7 @@ export default class WalkingScreen extends Component {
                         <OpenURLButton url={`http://maps.google.com/maps?daddr=${item.y},${item.x}`} text={'S’y rendre'} />
                       ) : null}
                       {(typeof item.custombutton !== 'undefined') ?  (
-                      <OpenURLButton url={item.custombutton.url} text={item.custombutton.title} />
+                        <OpenURLButton url={item.custombutton.url} text={item.custombutton.title} />
                       ) : null}
                   </Body>
             </CardItem>
