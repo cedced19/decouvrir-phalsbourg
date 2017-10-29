@@ -21,6 +21,8 @@
 * Photographie Église Notre-Dame-de-l'Assomption de Phalsbourg [structurae.info](https://structurae.info/ouvrages/eglise-notre-dame-de-l-assomption-de-phalsbourg)
 * Hôtel de ville [webmuseo.com](http://webmuseo.com/ws/musee-phalsbourg/app/report/index.html1)
 * Saverne et Lutzelbourg [bacm.creditmutuel.fr](http://www.bacm.creditmutuel.fr/fr/maugendre.html)
+* Eglise protestante [phalsbourg.fr](https://www.phalsbourg.fr/dynamic/pdf/phg_infos_octobre_2017.pdf)
+* "Phalsbourg autrefois" [facebook.com](https://www.facebook.com/phalsbourgautrefois/)
 
 ### Descriptions
 

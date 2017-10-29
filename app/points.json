@@ -8,7 +8,25 @@
         "uri":"notre_dame_de_l_assomption",
         "height":600,
         "width":563
-      }
+      },
+      "more": [
+        {
+          "text": "Plan de l’ancienne église (1736)",
+          "image": {
+            "uri":"plan_ancienne_eglise",
+            "height":588,
+            "width":348
+          }
+        },
+        {
+          "text": "Dessin après bombardement de la place et de l’ancienne église (1873)",
+          "image": {
+            "uri":"dessin_apres_bombardement",
+            "height":277,
+            "width":761
+          }
+        }
+      ]
    },
    {
      "name": "Fontaine",
@@ -216,12 +234,23 @@
    {
       "name":"Eglise protestante",
       "text": "Cette photographie a été prise en 1835, elle disposait alors d’un clocher en bois. L’aspect actuel date de 1925.",
-      "x":7.25919,
+      "x":7.259191,
       "y":48.76858,
       "image": {
         "uri":"eglise_protestante",
         "height":457,
         "width":309
+      }
+   },
+   {
+      "name":"Monument Erckmann-Chatrian",
+      "text": "Phalsbourg est la ville natale de Emile Erckmann, c’est aussi là où il a rencontré Alexandre Chatiran avec qui il écrivit de nombreux romans tels que L’Ami Fritz, ou Histoire d’un conscrit de 1813 sous le nom d'auteur Erckmann-Chatrian. Un monument fut élevé à leur gloire le 12 novembre 1922, la photographie date d'ailleurs de 1922.",
+      "x":7.258581,
+      "y":48.76822,
+      "image": {
+        "uri":"monument_erckmann_chatrian",
+        "height":698,
+        "width":466
       }
    }
 ]
