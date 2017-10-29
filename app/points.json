@@ -195,6 +195,33 @@
         "uri":"monument_aux_morts",
         "height":750,
         "width":500
+      },
+      "more": [
+        {
+          "image": {
+            "uri":"defenseurs_monument",
+            "height":250,
+            "width":258
+          }
+        },
+        {
+          "image": {
+            "uri":"maires_monument",
+            "height":250,
+            "width":375
+          }
+        }
+      ]
+   },
+   {
+      "name":"Eglise protestante",
+      "text": "Cette photographie a été prise en 1835, elle disposait alors d’un clocher en bois. L’aspect actuel date de 1925.",
+      "x":7.25919,
+      "y":48.76858,
+      "image": {
+        "uri":"eglise_protestante",
+        "height":457,
+        "width":309
       }
    }
 ]
