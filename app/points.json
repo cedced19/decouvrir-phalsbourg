@@ -41,7 +41,17 @@
         "uri":"porte_de_allemagne",
         "height":341.5,
         "width":512
-      }
+      },
+      "more": [
+        {
+          "text": "La plaque indique \"En souvenir de la visite de Goethe à Phalsbourg 25 Juin 1770\"",
+          "image": {
+            "uri":"goethe",
+            "height":250,
+            "width":375
+          }
+        }
+      ]
    },
    {
       "name":"Porte de France",

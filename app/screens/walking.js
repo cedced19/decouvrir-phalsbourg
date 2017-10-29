@@ -85,6 +85,7 @@ export default class WalkingScreen extends Component {
       });
   }
   render() {
+    const { navigate } = this.props.navigation;
     let distances = getDistances(this.state.location, points);
     distances.sort(function (a, b) {
       return a.distance - b.distance;
@@ -131,11 +132,15 @@ export default class WalkingScreen extends Component {
                             <OpenURLButton url={item.custombutton.url} text={item.custombutton.title} />
                           ) : null}
                         </Col>
+
                         <Col>
-                          <Button bordered light style={{alignSelf: 'flex-end', marginTop: 5}}>
+                        {(typeof item.more !== 'undefined') ?  (
+                          <Button bordered light style={{alignSelf: 'flex-end', marginTop: 5}} onPress={() => navigate('More', item)}>
                             <Icon name='chevron-right' size={60}   />
                           </Button>
+                        ) : null}
                         </Col>
+
                       </Grid>
                   </Body>
             </CardItem>
@@ -154,13 +159,3 @@ export default class WalkingScreen extends Component {
     BackgroundGeolocation.stop();
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF'
-  }
-});
