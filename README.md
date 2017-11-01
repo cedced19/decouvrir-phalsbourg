@@ -23,6 +23,7 @@
 * Saverne et Lutzelbourg [bacm.creditmutuel.fr](http://www.bacm.creditmutuel.fr/fr/maugendre.html)
 * Eglise protestante [phalsbourg.fr](https://www.phalsbourg.fr/dynamic/pdf/phg_infos_octobre_2017.pdf)
 * "Phalsbourg autrefois" [facebook.com](https://www.facebook.com/phalsbourgautrefois/)
+* Georges Mouton [wikipedia.org](https://fr.wikipedia.org/wiki/Georges_Mouton)
 
 ### Descriptions
 
@@ -38,3 +39,4 @@
 * Château d’Einartzhausen [wikipedia.org](https://fr.wikipedia.org/wiki/Ch%C3%A2teau_d%27Einartzhausen)
 * Hôtel de ville [petit-patrimoine.com](http://www.petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=57540_11)
 * Club Vosgien [clubvosgienphalsbourglutzelbourg.com](http://www.clubvosgienphalsbourglutzelbourg.com)
+* Georges Mouton [napoleon-monuments.eu](http://napoleon-monuments.eu/Napoleon1er/Mouton.htm)

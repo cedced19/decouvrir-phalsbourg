@@ -260,5 +260,44 @@
         "height":698,
         "width":466
       }
+   },
+   {
+     "name": "Statue de Georges Mouton",
+     "text": "La Statue de Georges Mouton né à Phalsbourg en 1770, Comte de Lobau, Maréchal de France règne sur la Place d’Armes depuis 1859. En 1792, à 19 ans il s’engage comme volontaire dans l’armée; le 16 août, il est élu lieutenant par ses camarades; et le 5 novembre capitaine.\n\nL’Empereur Napoléon I° le choisit en 1805 comme aide de camp. Le 21 avril 1809, alors que la ville de Landshut résiste aux forces françaises, Napoléon ordonne à Mouton : « placez-vous à la tête de cette colonne et enlevez la ville de Landshut ! ». Il se met à la tête des grenadiers du 17e de ligne, traverse le pont sous un feu nourri et fait refluer les Autrichiens. L’Empereur déclare alors : « Mon Mouton est un lion ». \n\n Il tient son titre de « Comte de Lobau » de la bataille d’Essling, où il défend l’île Lobau. Il a ainsi permis la retraite des Français. Quelques jours plus tard, Napoléon crée le comte de Lobau en remerciement « pour avoir sept fois repoussé l’ennemi, et par là assuré la gloire de nos armes » comme le précise le décret impérial. \n\n Il participe aux campagnes de Russie et d’Allemagne où il est fait prisonnier à Dresde en 1813. Il reprend néanmoins du service durant les Cent-Jours et prend part à la bataille de Waterloo où il est à nouveau fait prisonnier. \n\nC’est le 30 juillet 1931, date anniversaire de la révolution de Juillet à laquelle il participa activement, que Mouton, pourtant fils de boulanger, reçoit son bâton de maréchal de France des mains de Louis-Philippe. \n\nIl s’éteint le 27 novembre 1838. Il repose aujourd’hui dans la crypte de l’église Saint-Louis des Invalides.\n\nLa photographie date de l'époque où la statue était encore entourée d'une grille.",
+     "x": 7.258754,
+     "y": 48.76705,
+     "image": {
+       "uri":"statue",
+       "height": 567,
+       "width": 361
+     },
+     "more": [
+       {
+         "text": "Mouton en 1792, capitaine au 9° Bataillon de la Meurthe",
+         "image": {
+           "uri":"mouton1",
+           "height":425,
+           "width":326
+         }
+       },
+       {
+         "text": "Georges Mouton après l'Empire",
+         "image": {
+           "uri":"mouton2",
+           "height":709,
+           "width":509
+         }
+       }
+     ]
+   },
+   {
+     "name": "Maison natale de Georges Mouton",
+     "x": 7.258626,
+     "y": 48.76833,
+     "image": {
+       "uri":"maison_mouton",
+       "height": 550,
+       "width": 949
+     }
    }
 ]

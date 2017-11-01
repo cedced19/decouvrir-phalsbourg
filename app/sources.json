@@ -43,6 +43,10 @@
     {
       "name": "Synagogue",
       "url": "http://judaisme.sdv.fr/synagog/moselle/phalsbou.htm"
+    },
+    {
+      "name": "Georges Mouton",
+      "url": "https://fr.wikipedia.org/wiki/Georges_Mouton"
     }
   ],
   "images": [
@@ -81,6 +85,10 @@
     {
       "name": "\"Phalsbourg autrefois\"",
       "url": "https://www.facebook.com/phalsbourgautrefois/"
+    },
+    {
+      "name": "Georges Mouton",
+      "url": "http://napoleon-monuments.eu/Napoleon1er/Mouton.htm"
     }
   ]
 }
