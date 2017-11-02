@@ -313,8 +313,8 @@
    {
      "name": "Ancien tribunal cantonal",
      "text": "Ce bâtiment fut construit en pierre de taille par les Allemands en 1900. Il sert aujourd'hui de réserve au musée de Phalsbourg. L'association Sauvegarde du patrimoine souhaiterait classer faire réhabiliter l’édifice en le classant à l'Inventaire des monuments historiques.",
-     "x": 7.258626,
-     "y": 48.76833,
+     "x": 7.26288,
+     "y": 48.76696,
      "image": {
        "uri":"tribunal",
        "height": 346,
@@ -334,6 +334,26 @@
            "uri":"tribunal_de_bailliage",
            "height":638,
            "width":968
+         }
+       }
+     ]
+   },
+   {
+     "name": "Poste",
+     "text": "La Poste a été construite vers 1902 par les Allemands. Sur la facade on peut aujourd'hui voir le « RF » pour « République Française »  en jaune.",
+     "x": 7.256434,
+     "y": 48.76832,
+     "image": {
+       "uri":"poste_2017",
+       "height": 250,
+       "width": 375
+     },
+     "more": [
+       {
+         "image": {
+           "uri":"poste",
+           "height":446,
+           "width":277
          }
        }
      ]
