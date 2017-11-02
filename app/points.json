@@ -299,5 +299,33 @@
        "height": 550,
        "width": 949
      }
+   },
+   {
+     "name": "Ancien tribunal cantonal",
+     "text": "Ce bâtiment fut construit en pierre de taille par les Allemands en 1900. Il sert aujourd'hui de réserve au musée de Phalsbourg. L'association Sauvegarde du patrimoine souhaiterait classer faire réhabiliter l’édifice en le classant à l'Inventaire des monuments historiques.",
+     "x": 7.258626,
+     "y": 48.76833,
+     "image": {
+       "uri":"tribunal",
+       "height": 346,
+       "width": 520
+     },
+     "more": [
+       {
+         "text": "Photographie du tribunal en 1914",
+         "image": {
+           "uri":"tribunal_1914",
+           "height":639,
+           "width":968
+         }
+       },
+       {
+         "image": {
+           "uri":"tribunal_de_bailliage",
+           "height":638,
+           "width":968
+         }
+       }
+     ]
    }
 ]
