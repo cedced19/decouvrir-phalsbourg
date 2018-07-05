@@ -1,14 +1,14 @@
-jest.mock('VirtualizedList', () => {
-  const RealComponent = require.requireActual('VirtualizedList');
+jest.mock('TextInput', () => {
+  const RealComponent = require.requireActual('TextInput');
   const React = require('React');
-  class VirtualizedList extends React.Component {
+  class TextInput extends React.Component {
     render() {
-      delete this.props.getScrollableNode;
-      return React.createElement('VirtualizedList', this.props, this.props.children);
+      delete this.props.autoFocus;
+      return React.createElement('TextInput', this.props, this.props.children);
     }
   }
-  VirtualizedList.propTypes = RealComponent.propTypes;
-  return VirtualizedList;
+  TextInput.propTypes = RealComponent.propTypes;
+  return TextInput;
 });
 
 jest.mock('Linking', () => ({
