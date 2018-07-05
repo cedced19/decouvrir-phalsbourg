@@ -1,361 +1,385 @@
 [
-   {
-      "name":"Notre Dame de l’Assomption",
-      "text": "L’église Notre Dame de L’Assomption de Phalsbourg, réalisée en grès de style néo-gothique à partir du 1er mars 1874, et inaugurée en 21 mai 1876, remplace une église de style baroque détruite lors du siège de Phalsbourg en 1870. L’église devait être surmonté d’une flèche, mais elle ne fut jamais édifiée faute de financement. Les dommages de guerres accordés s’élevaient à 253 000 francs pour la destruction de l’ancienne église par l’État allemand. Guillaume Ier a offert 1500kg du bronze nécessaire à la fonte des nouvelles cloches: Nicolas, 600kg, Joseph, 850kg, et Marie, 1180kg.",
-      "x":7.257932,
-      "y":48.766775,
-      "image": {
-        "uri":"notre_dame_de_l_assomption",
-        "height":600,
-        "width":563
-      },
-      "more": [
-        {
-          "text": "Plan de l’ancienne église (1736)",
-          "image": {
-            "uri":"plan_ancienne_eglise",
-            "height":588,
-            "width":348
-          }
-        },
-        {
-          "text": "Dessin après bombardement de la place et de l’ancienne église (1873)",
-          "image": {
-            "uri":"dessin_apres_bombardement",
-            "height":277,
-            "width":761
-          }
+  {
+    "name": "Notre Dame de l’Assomption",
+    "text": "L’église Notre Dame de L’Assomption de Phalsbourg, réalisée en grès de style néo-gothique à partir du 1er mars 1874, et inaugurée en 21 mai 1876, remplace une église de style baroque détruite lors du siège de Phalsbourg en 1870. L’église devait être surmonté d’une flèche, mais elle ne fut jamais édifiée faute de financement. Les dommages de guerres accordés s’élevaient à 253 000 francs pour la destruction de l’ancienne église par l’État allemand. Guillaume Ier a offert 1500kg du bronze nécessaire à la fonte des nouvelles cloches: Nicolas, 600kg, Joseph, 850kg, et Marie, 1180kg.",
+    "x": 7.257932,
+    "y": 48.766775,
+    "image": {
+      "uri": "notre_dame_de_l_assomption",
+      "height": 600,
+      "width": 563
+    },
+    "more": [
+      {
+        "text": "Plan de l’ancienne église (1736)",
+        "image": {
+          "uri": "plan_ancienne_eglise",
+          "height": 588,
+          "width": 348
         }
-      ]
-   },
-   {
-     "name": "Fontaine",
-     "text": "L’eau a toujours été un problème pour la ville de Phalsbourg. Au XVII° siècle, l’eau provenait de Hultehouse qui faisait partie de la principauté de Phalsbourg, les canalisations étaient en bois et passaient par Lutzelbourg. La différence de hauteur entre Hultehouse et Lutzelbourg permettait de faire remonter l’eau jusqu’à Trois-Maisons où une quatrième source est raccordée pour arriver sur la place d’Armes de Phalsbourg. C’est en 1813 que le génie militaire raccorde Phalsbourg par une conduite en pierre. En 1810, cette fontaine était la seul raccordée à cette conduite. Elle fut remplacée en 1845 par une conduite en fonte. Aujourd’hui, l’eau provient de sources qui coulent au pied du rocher de Dabo et d’un forage proche de Lutzelbourg qui permet de compléter les besoins en eau de la ville. Selon la ville de Phalsbourg, 120 litres sont consommés tous les jours par habitant.",
-     "x":7.2581982,
-     "y":48.766410,
-     "image": {
-       "uri":"fontaine",
-       "height":483,
-       "width":255
-     }
-   },
-   {
-      "name":"Lycée Erckmann-Chatrian",
-      "text": "C’est sous le Consulat, à la suite du décret promulgué le 19 Messidor de l’An XI  (8 Juillet 1803), que ce bâtiment a été utilisé pour la première fois à usage scolaire sous le nom de « «Collège de Phalsbourg » . Il accueillait alors 60 pensionnaires. De 1739 à la Révolution, l’édifice était un couvent des Frères Mineurs Capucins (d’où le surnom « Capucinière »). On peut d’ailleurs toujours apercevoir l’architecture d’un couvent en regardant attentivement les anciens bâtiments de la cité scolaire actuelle..\n\nLe Lycée porte aujourd’hui le nom de deux anciens élèves écrivains Émile Erckmann et Alexandre Chatiran, connu sous le nom de plume Erckmann-Chatrian. Leur roman « Les Années de Collège de Maître Nablot » rapporte la vie des élèves internes du XIX°.\n\nC’est en 1876 que les Allemands, après l’annexion de l’Alsace-Lorraine fondent une École Normale dite « Kaiserliches Lehrerseminar » qui aura formé plus d’une centaine d’instituteurs jusqu’en 1921.  Elle laissera place à l’École Primaire Supérieur qui subsista jusqu’en 1940.\n\nSous l’Occupation, entre 1940 et 1944, elle fut une « Staatliche Oberschule » niant les droits de l’Homme, et enseignant la propagande nazie.\n\nPendant tous les conflits endurés par Phalsbourg depuis 1814, les édifices servirent à loger et soigner les troupes. La salle des fêtes actuelle servait, par exemple, d’infirmerie durant la Grande Guerre lorsque celui-ci fut transformé en « Reservelazarett ».  Durant l’hiver 1944/45, elle abrita même la 7° Armée Américaine.\n\nC’est en 1945 que la Capucinière redevient un paisible collège, puis lycée en 1955. De nouveaux bâtiment ont été construits en 1966 à la place de l’ancien Arsenal pour abriter les élèves de plus en plus nombreux. En 2016 a commencé la rénovation de la cantine vieillissante.\n\nDepuis sa création, la Capucinière a accueillit près de dix-huit mille élèves.  On peut citer parmi eux :  Henry Villard qui deviendra aux Etats-Unis le PDG de la Northern Pacific Railroad, ou encore, Jean Laurain Ministre des Anciens Combattants entre 1981 et 1986. Et plusieurs écrivains : Erckmann-Chatrian, Alfred Erckmann, Guillaume Musso, Bernadette Braun, Louis Engel, Anton Largiader, Wilhelm Kahl, Gaston-Paul Effa, Louis Hollender, Yvonne Hoffmann, Paul Kittel, Gustave Koch et d’autres encore. Miss France 1973, Isabelle Krumacker, était aussi passée par la cité scolaire ainsi que Cédric Jung, qui a créé cette application lors de son année de première.",
-      "x":7.259498,
-      "y":48.76843,
-      "image": {
-        "uri":"lycee",
-        "height":500,
-        "width":750
       },
-      "more": [
-        {
-          "text": "Rue Alfred Hollender (1939)",
-          "image": {
-            "uri":"rue_alfred_hollender_1939",
-            "height":292,
-            "width":457
-          }
+      {
+        "text": "Dessin après bombardement de la place et de l’ancienne église (1873)",
+        "image": {
+          "uri": "dessin_apres_bombardement",
+          "height": 277,
+          "width": 761
         }
-      ]
-   },
-   {
-      "name":"Porte d’Allemagne",
-      "text": "Elle date de 1680, elle permet l’accès de la forteresse de Phalsbourg par l’Est. Sur le fronton, on distingue l’écu du roi Louis XIV avec une fleur de lis. Une plaque en marbre blanc témoigne du passage de Goethe à Phalsbourg le 23 juin 1770. On peut encore distinguer une partie du fossé qui à l’époque était large de 33m et profond de 10.",
-      "x":7.260498,
-      "y":48.766534,
-      "image": {
-        "uri":"porte_de_allemagne",
-        "height":341.5,
-        "width":512
-      },
-      "more": [
-        {
-          "text": "La plaque indique « En souvenir de la visite de Goethe à Phalsbourg 25 Juin 1770 »",
-          "image": {
-            "uri":"goethe",
-            "height":250,
-            "width":375
-          }
+      }
+    ]
+  },
+  {
+    "name": "Fontaine",
+    "text": "L’eau a toujours été un problème pour la ville de Phalsbourg. Au XVII° siècle, l’eau provenait de Hultehouse qui faisait partie de la principauté de Phalsbourg, les canalisations étaient en bois et passaient par Lutzelbourg. La différence de hauteur entre Hultehouse et Lutzelbourg permettait de faire remonter l’eau jusqu’à Trois-Maisons où une quatrième source est raccordée pour arriver sur la place d’Armes de Phalsbourg. C’est en 1813 que le génie militaire raccorde Phalsbourg par une conduite en pierre. En 1810, cette fontaine était la seul raccordée à cette conduite. Elle fut remplacée en 1845 par une conduite en fonte. Aujourd’hui, l’eau provient de sources qui coulent au pied du rocher de Dabo et d’un forage proche de Lutzelbourg qui permet de compléter les besoins en eau de la ville. Selon la ville de Phalsbourg, 120 litres sont consommés tous les jours par habitant.",
+    "x": 7.2581982,
+    "y": 48.766410,
+    "image": {
+      "uri": "fontaine",
+      "height": 483,
+      "width": 255
+    }
+  },
+  {
+    "name": "Lycée Erckmann-Chatrian",
+    "text": "C’est sous le Consulat, à la suite du décret promulgué le 19 Messidor de l’An XI  (8 Juillet 1803), que ce bâtiment a été utilisé pour la première fois à usage scolaire sous le nom de « «Collège de Phalsbourg » . Il accueillait alors 60 pensionnaires. De 1739 à la Révolution, l’édifice était un couvent des Frères Mineurs Capucins (d’où le surnom « Capucinière »). On peut d’ailleurs toujours apercevoir l’architecture d’un couvent en regardant attentivement les anciens bâtiments de la cité scolaire actuelle..\n\nLe Lycée porte aujourd’hui le nom de deux anciens élèves écrivains Émile Erckmann et Alexandre Chatiran, connu sous le nom de plume Erckmann-Chatrian. Leur roman « Les Années de Collège de Maître Nablot » rapporte la vie des élèves internes du XIX°.\n\nC’est en 1876 que les Allemands, après l’annexion de l’Alsace-Lorraine fondent une École Normale dite « Kaiserliches Lehrerseminar » qui aura formé plus d’une centaine d’instituteurs jusqu’en 1921.  Elle laissera place à l’École Primaire Supérieur qui subsista jusqu’en 1940.\n\nSous l’Occupation, entre 1940 et 1944, elle fut une « Staatliche Oberschule » niant les droits de l’Homme, et enseignant la propagande nazie.\n\nPendant tous les conflits endurés par Phalsbourg depuis 1814, les édifices servirent à loger et soigner les troupes. La salle des fêtes actuelle servait, par exemple, d’infirmerie durant la Grande Guerre lorsque celui-ci fut transformé en « Reservelazarett ».  Durant l’hiver 1944/45, elle abrita même la 7° Armée Américaine.\n\nC’est en 1945 que la Capucinière redevient un paisible collège, puis lycée en 1955. De nouveaux bâtiment ont été construits en 1966 à la place de l’ancien Arsenal pour abriter les élèves de plus en plus nombreux. En 2016 a commencé la rénovation de la cantine vieillissante.\n\nDepuis sa création, la Capucinière a accueillit près de dix-huit mille élèves.  On peut citer parmi eux :  Henry Villard qui deviendra aux Etats-Unis le PDG de la Northern Pacific Railroad, ou encore, Jean Laurain Ministre des Anciens Combattants entre 1981 et 1986. Et plusieurs écrivains : Erckmann-Chatrian, Alfred Erckmann, Guillaume Musso, Bernadette Braun, Louis Engel, Anton Largiader, Wilhelm Kahl, Gaston-Paul Effa, Louis Hollender, Yvonne Hoffmann, Paul Kittel, Gustave Koch et d’autres encore. Miss France 1973, Isabelle Krumacker, était aussi passée par la cité scolaire ainsi que Cédric Jung, qui a créé cette application lors de son année de première.",
+    "x": 7.259498,
+    "y": 48.76843,
+    "image": {
+      "uri": "lycee",
+      "height": 500,
+      "width": 750
+    },
+    "more": [
+      {
+        "text": "Rue Alfred Hollender (1939)",
+        "image": {
+          "uri": "rue_alfred_hollender_1939",
+          "height": 292,
+          "width": 457
         }
-      ]
-   },
-   {
-      "name":"Porte de France",
-      "text": "C’est un des rares vestiges de la forteresse construite par Vauban à partir de 1674. Le décor de bas-reliefs évoque les victoires de Louis XIV. C’est de là que démarre Le Tour de France par deux Enfants, manuel qui a servi à l’apprentissage de la lecture lors de la III° République.",
-      "x":7.256475,
-      "y":48.768507,
-      "image": {
-        "uri":"porte_de_france",
-        "height":450,
-        "width":600
       }
-   },
-   {
-      "name":"Trois-Maisons",
-      "text": "Le document ci-dessus est une carte postale de Trois-Maisons de 1911 avec photographie du café JUNG et de l’église construite en 1858. Trois-Maisons, aussi Dreihäuser en allemand, est l'annexe la plus peuplée de Phalsbourg. Néamoins, tout au long du XIX°, Trois-Maisons chercha en vain à devenir indépendant de Phalsbourg.",
-      "x":7.256711,
-      "y":48.749318,
-      "image": {
-        "uri":"dreihauser",
-        "height":653,
-        "width":960
-      }
-   },
-   {
-      "name":"Buchelberg",
-      "x":7.266308,
-      "y":48.782985
-   },
-   {
-      "name":"Le lavoir du Brunnenthal",
-      "text":"Il est composé de deux bassins, le premier, le plus haut était réservé jusque vers 1960 pour le rinçage du linge et le deuxième, plus bas pour laver le linge. Il était utilisé par les habitants de Bois de Chêne du Bas ainsi que par certains Phalsbourgeois. Le lavoir était connu à l’époque pour la qualité de son eau. A partir de 1960, le lavoir est délaissé jusque 1996, où la ville de Phalsbourg décide de préserver son patrimoine et de restaurer le lavoir. Le Brunnenthal est une vallée riche en sources comme l’indique son nom: « thal » signifiant vallée (aujourd’hui orthographié « tal » en allemand) et « brunnen » fontaine. Le lavoir fait partie du Sentier Botanique du Brunnenthal où une trentaine de panneaux renseignent le visiteur sur les principales essences de la forêt des Voges du Nord.",
-      "x":7.265522,
-      "y":48.757018,
-      "image": {
-        "uri":"lavoir_brunnenthal",
-        "height":229,
-        "width":381
-      }
-   },
-   {
-      "name":"Ancienne gare de Phalsbourg",
-      "text":"Elle était desservie de 1883 à 1953 par la ligne de Lutzelbourg à Drulingen. Cette dernière était surnommée « Eselbahn » (le chemin de fer des ânes). Les voies ont un écartement d’un mètre, elles sont utilisées pour les voies dites secondaires car faciles à installer et moins chères.",
-      "x":7.256271,
-      "y":48.767771,
-      "image": {
-        "uri":"gare",
-        "height":195,
-        "width":320
-      }
-   },
-   {
-      "name":"Château d’Einartzhausen",
-      "text":"Les fondations du château datent de 1560. Il est inscrit aux monuments historiques depuis 1937. Il tire son nom de sa proximité avec un village voisin, situé sur les terres constituant la dot de la princesse Anna Maria que Georges-Jean de Veldenz a épousée. Ce dernier en a ordonné la construction et en a fait sa résidence. Vauban, ministre de la guerre, a fait intégrer le château dans un bastion, pour cela le rez-de-chaussée a été remblayé. On accède donc aujourd’hui au château par le premier étage. Il a été restaurer à la fin du XIX° siècle. La ville s’en est alors servit comme auberge de jeunesse comme on peut le voir sur la photographie ci-dessus. Le château sert encore dans certaines manifestations comme le festival.",
-      "x":7.260518,
-      "y":48.76588,
-      "image": {
-        "uri":"chateau",
-        "height":708,
-        "width":1012
-      }
-   }, {
-     "name":"La Place d’Armes de Phalsbourg",
-     "text":"La Place d’Armes de Phalsbourg est le centre historique de Phalsbourg: on y trouve la statue Lobau et la mairie actuelle visible sur cette photographie de 2009.",
-     "x":7.258760,
-     "y":48.767064,
-     "image": {
-       "uri":"place",
-       "height":228,
-       "width":342
-     }
-   },
-   {
-      "name":"L’Hôtel de ville",
-      "text":"La mairie actuelle prend place dans l’ancien Corps de garde de la forteresse. Elle occupe une position centrale qui lui permettait de diriger les opérations militaires. Sur la façade on peut observer 5 médaillons, 3 représentant les armoiries de Phalsbourg et un autre représentant Georges Jean de Veldenz. On retrouve à l’étage le musée de la ville de Phalsbourg. Si vous allez à l’étage vous aurez emprunté l’escalier en chêne à balustre qui date de 1680. On peut également voir la statue du compte de Lobeau réalisé en 1840 par Nicolas Jaley, il s’agit de l’original dont la copie en bronze trône au milieu de la Place d’Armes.",
-      "x":7.258822,
-      "y":48.767638,
-      "image": {
-        "uri":"mairie",
-        "height":651,
-        "width":901
-      }
-   },
-   {
-      "name":"Phalsbourg Air Base",
-      "text":"La Base Aérienne de Phalsbourg Bourscheid voit le jour en 1952. Construite pour répondre au concurrent soviétique, elle a abrité de nombreuses unités américaines ainsi que divers types d’appareils (Hélicoptères, avions de reconnaissance et d’interception).\nAprès une période de sommeil due au départ des troupes des États Unis du sol français en 1967, elle est affectée depuis les années 1970 à l’Aviation Légère de l’Armée de Terre (ALAT) et plus spécifiquement au 1er Régiment d’Hélicoptères de Combat (1er RHC). Ce dernier est doté d’appareils de transport et d’appui de dernière génération.\n\nCette vue aérienne de 1967 et ces informations ont été obtenus grâce à Philippe L.",
-      "x":7.203169,
-      "y":48.765242,
-      "custombutton": {
-        "url": "http://phalsbourg-air-base.blogspot.fr/",
-        "title": "Blog de Philippe L."
-      },
-      "mapbutton": false,
-      "image": {
-        "uri":"air_base_1967",
-        "height":801,
-        "width":755
-      }
-   },
-   {
-      "name":"Lutzelbourg",
-      "text": "Village situé à environ 4km du centre de Phalsbourg, il joue un grand rôle dans l’histoire de Phalsbourg. Lutzelbourg est situé dans la vallée de la Zorn où passe le canal de la Marne au Rhin ouvert en 1853. Sur cette illustration on peut voir la gare ouverte en 1851. Au second plan, on peut voir les ruines château du XI° tandis qu’en arrière plan on peut apercevoir quelques maisons de Trois-Maisons du bas.",
-      "x":7.250971,
-      "y":48.73518,
-      "image": {
-        "uri":"lutzelbourg",
-        "height":466,
-        "width":700
-      }
-   },
-   {
-      "name":"Saverne",
-      "text": "Sur cette illustration on peut voir au premier plan la gare de Saverne mise en service en 1851. Au second plan on peut voir le château des Rohan construit à la fin du XVIII° siècle.\nEn arrière plan, on  peut observer des châteaux de l’époque médiévale qui permettaient le contrôle de la région. Respectivement de gauche à droite : le Petit-Geroldseck du XIII° le Grand-Geroldseck, le Haut-Barr, le Greifenstein du XII° siècle.\nCette illustration montre bien l’importance qu’a la vallée de la Zorn pour la région : elle est le carrefour entre l’Alsace et la Lorraine. On retrouve alors l’une des raisons de la fondation du château d’Einartzhausen, maintenant au centre de Phalsbourg: contrôler le passage important entre ces deux grandes régions.",
-      "x":7.362372,
-      "y":48.74466,
-      "image": {
-        "uri":"saverne",
-        "height":466,
-        "width":700
-      }
-   },
-   {
-      "name":"Panneau du Club Vosgien",
-      "text": "Crée à Saverne 1872 par M. Richard Stieve, le Club Vosgien a pour but de mettre en place de nouveaux sentiers, d’entretenir et de baliser les sentiers existants dans le Massif vosgien.\nL’association du Club Vosgien de Phalsbourg-Lutzelbourg est l’une des plus anciennes, elle fut créé en 1874. En 2017, l’association compte plus de 500 membres.\nIl permet découvrir la beauté de la montagne, son intérêt historique, son patrimoine, ses richesses naturelles.\nSur cette photographie, un panneau en face de l’ancien tribunal donne le départ de plusieurs sentiers. On peut y remarquer les différents symboles communs à tout les Clubs Vosgiens pour le balisage.\nLa devise du Club Vosgien est  « Un jour de sentier = Huit jours de Santé ».",
-      "x":7.262260,
-      "y":48.76675,
-      "image": {
-        "uri":"club_vosgien",
-        "height":1074,
-        "width":1000
-      }
-   },
-   {
-      "name":"Synagogue",
-      "x":7.257515,
-      "y":48.76763,
-      "text": "Avec la transformation de Phalsbourg en forteresse, Louvois autorise l’implantation de familles juives dans Phalsbourg. En effet, les juifs sont les seuls capable de pourvoir aux activités commerciales indispensables au fonctionnement d’une ville de garnison. La communauté juive se développe alors, une première synagogue est construite en 1770 et un cimetière en 1796. Elle fut reconstruite en 1857 et inaugurée le 10 septembre 1857. Aujourd’hui, le culte n’est plus pratiqué à Phalsbourg car le myniâne (quorum nécessaire de 10 hommes de plus de 13 ans) n’existe plus. De nombreuse personnalités illustres sont issue de cette communauté dont Alexandre Weil.\nCe dernier fonda aux États-Unis les banques Lazard avec son cousin Simon Lazard à San Francisco. En 1885, il rentre en France afin d’y fonder la banque Lazard de Paris.\nMademoiselle Mathilde Salomon première femme à recevoir la croix de chevalier de la Légion d’Honneur est également issue de la communauté juive de Phalsbourg.",
-      "image": {
-        "uri":"synagogue",
-        "height":750,
-        "width":500
-      }
-   },
-   {
-      "name":"Monument aux morts",
-      "text": "Le 12 octobre 1919 est inauguré le monument aux morts de Phalsbourg appelé, Monument des Trois Sièges. En effet, Phalsbourg a subit trois sièges au cours de son histoire: en 1814, 1815, 1870. C’est d’ailleurs pour le comportement héroïque des habitants lors de ce dernier siège que la ville fut récompensé le 22 août 1919 de la croix de la Légion d’honneur.\nLe général Alfred Hollender est à l’origine de l’attribution de cette distinction, estimant que Phalsbourg mérite « bien plus que Bitche et Strasbourg » qui l’ont reçu la même année. Pour le remercier le maire Georges Henri Schwartz décida de changer le nom d’une partie de la rue du Collège en rue Alfred Hollender.",
-      "x":7.253753,
-      "y":48.76800,
-      "image": {
-        "uri":"monument_aux_morts",
-        "height":750,
-        "width":500
-      },
-      "more": [
-        {
-          "image": {
-            "uri":"defenseurs_monument",
-            "height":250,
-            "width":258
-          }
-        },
-        {
-          "image": {
-            "uri":"maires_monument",
-            "height":250,
-            "width":375
-          }
+    ]
+  },
+  {
+    "name": "Porte d’Allemagne",
+    "text": "Elle date de 1680, elle permet l’accès de la forteresse de Phalsbourg par l’Est. Sur le fronton, on distingue l’écu du roi Louis XIV avec une fleur de lis. Une plaque en marbre blanc témoigne du passage de Goethe à Phalsbourg le 23 juin 1770. On peut encore distinguer une partie du fossé qui à l’époque était large de 33m et profond de 10.",
+    "x": 7.260498,
+    "y": 48.766534,
+    "image": {
+      "uri": "porte_de_allemagne",
+      "height": 341.5,
+      "width": 512
+    },
+    "more": [
+      {
+        "text": "La plaque indique « En souvenir de la visite de Goethe à Phalsbourg 25 Juin 1770 »",
+        "image": {
+          "uri": "goethe",
+          "height": 250,
+          "width": 375
         }
-      ]
-   },
-   {
-      "name":"Eglise protestante",
-      "text": "Cette photographie a été prise en 1835, elle disposait alors d’un clocher en bois. L’aspect actuel date de 1925.",
-      "x":7.259191,
-      "y":48.76858,
-      "image": {
-        "uri":"eglise_protestante",
-        "height":457,
-        "width":309
       }
-   },
-   {
-      "name":"Monument Erckmann-Chatrian",
-      "text": "Phalsbourg est la ville natale de Emile Erckmann, c’est aussi là où il a rencontré Alexandre Chatiran avec qui il écrivit de nombreux romans tels que L’Ami Fritz, ou Histoire d’un conscrit de 1813 sous le nom d’auteur Erckmann-Chatrian. Un monument fut élevé à leur gloire le 12 novembre 1922, la photographie date d’ailleurs de 1922.",
-      "x":7.258581,
-      "y":48.76822,
-      "image": {
-        "uri":"monument_erckmann_chatrian",
-        "height":698,
-        "width":466
+    ]
+  },
+  {
+    "name": "Porte de France",
+    "text": "C’est un des rares vestiges de la forteresse construite par Vauban à partir de 1674. Le décor de bas-reliefs évoque les victoires de Louis XIV. C’est de là que démarre Le Tour de France par deux Enfants, manuel qui a servi à l’apprentissage de la lecture lors de la III° République.",
+    "x": 7.256475,
+    "y": 48.768507,
+    "image": {
+      "uri": "porte_de_france",
+      "height": 450,
+      "width": 600
+    }
+  },
+  {
+    "name": "Trois-Maisons",
+    "text": "Le document ci-dessus est une carte postale de Trois-Maisons de 1911 avec photographie du café JUNG et de l’église construite en 1858. Trois-Maisons, aussi Dreihäuser en allemand, est l'annexe la plus peuplée de Phalsbourg. Néamoins, tout au long du XIX°, Trois-Maisons chercha en vain à devenir indépendant de Phalsbourg.",
+    "x": 7.256711,
+    "y": 48.749318,
+    "image": {
+      "uri": "dreihauser",
+      "height": 653,
+      "width": 960
+    }
+  },
+  {
+    "name": "Buchelberg",
+    "text": "Buchelberg est l’une des trois annexes de Phalsbourg, on retrouve plusieurs noms pour ce même lieu:  Spiegelberge (XVe siècle), Buchel (1719), Pigelberg (carte de Cassini). Dans Statistique administrative et historique du département de la Meurthe de 1822 par Louis Antoine Michel, on retrouve mention de Buchelberg comme un « hameau à gauche de la route de Phalsbourg à Saverne » comprenant « 42 feux et 217 individus ».",
+    "x": 7.266308,
+    "y": 48.782985
+  },
+  {
+    "name": "Le lavoir du Brunnenthal",
+    "text": "Il est composé de deux bassins, le premier, le plus haut était réservé jusque vers 1960 pour le rinçage du linge et le deuxième, plus bas pour laver le linge. Il était utilisé par les habitants de Bois de Chêne du Bas ainsi que par certains Phalsbourgeois. Le lavoir était connu à l’époque pour la qualité de son eau. A partir de 1960, le lavoir est délaissé jusque 1996, où la ville de Phalsbourg décide de préserver son patrimoine et de restaurer le lavoir. Le Brunnenthal est une vallée riche en sources comme l’indique son nom: « thal » signifiant vallée (aujourd’hui orthographié « tal » en allemand) et « brunnen » fontaine. Le lavoir fait partie du Sentier Botanique du Brunnenthal où une trentaine de panneaux renseignent le visiteur sur les principales essences de la forêt des Voges du Nord.",
+    "x": 7.265522,
+    "y": 48.757018,
+    "image": {
+      "uri": "lavoir_brunnenthal",
+      "height": 229,
+      "width": 381
+    }
+  },
+  {
+    "name": "Ancienne gare de Phalsbourg",
+    "text": "Elle était desservie de 1883 à 1953 par la ligne de Lutzelbourg à Drulingen. Cette dernière était surnommée « Eselbahn » (le chemin de fer des ânes). Les voies ont un écartement d’un mètre, elles sont utilisées pour les voies dites secondaires car faciles à installer et moins chères.",
+    "x": 7.256271,
+    "y": 48.767771,
+    "image": {
+      "uri": "gare",
+      "height": 195,
+      "width": 320
+    }
+  },
+  {
+    "name": "Château d’Einartzhausen",
+    "text": "Les fondations du château datent de 1560. Il est inscrit aux monuments historiques depuis 1937. Il tire son nom de sa proximité avec un village voisin, situé sur les terres constituant la dot de la princesse Anna Maria que Georges-Jean de Veldenz a épousée. Ce dernier en a ordonné la construction et en a fait sa résidence. Vauban, ministre de la guerre, a fait intégrer le château dans un bastion, pour cela le rez-de-chaussée a été remblayé. On accède donc aujourd’hui au château par le premier étage. Il a été restaurer à la fin du XIX° siècle. La ville s’en est alors servit comme auberge de jeunesse comme on peut le voir sur la photographie ci-dessus. Le château sert encore dans certaines manifestations comme le festival.",
+    "x": 7.260518,
+    "y": 48.76588,
+    "image": {
+      "uri": "chateau",
+      "height": 708,
+      "width": 1012
+    }
+  },
+  {
+    "name": "La Place d’Armes de Phalsbourg",
+    "text": "La Place d’Armes de Phalsbourg est le centre historique de Phalsbourg: on y trouve la statue Lobau et la mairie actuelle visible sur cette photographie de 2009.",
+    "x": 7.258760,
+    "y": 48.767064,
+    "image": {
+      "uri": "place",
+      "height": 228,
+      "width": 342
+    }
+  },
+  {
+    "name": "L’Hôtel de ville",
+    "text": "La mairie actuelle prend place dans l’ancien Corps de garde de la forteresse. Elle occupe une position centrale qui lui permettait de diriger les opérations militaires. Sur la façade on peut observer 5 médaillons, 3 représentant les armoiries de Phalsbourg et un autre représentant Georges Jean de Veldenz. On retrouve à l’étage le musée de la ville de Phalsbourg. Si vous allez à l’étage vous aurez emprunté l’escalier en chêne à balustre qui date de 1680. On peut également voir la statue du compte de Lobeau réalisé en 1840 par Nicolas Jaley, il s’agit de l’original dont la copie en bronze trône au milieu de la Place d’Armes.",
+    "x": 7.258822,
+    "y": 48.767638,
+    "image": {
+      "uri": "mairie",
+      "height": 651,
+      "width": 901
+    }
+  },
+  {
+    "name": "Phalsbourg Air Base",
+    "text": "La Base Aérienne de Phalsbourg Bourscheid voit le jour en 1952. Construite pour répondre au concurrent soviétique, elle a abrité de nombreuses unités américaines ainsi que divers types d’appareils (Hélicoptères, avions de reconnaissance et d’interception).\nAprès une période de sommeil due au départ des troupes des États Unis du sol français en 1967, elle est affectée depuis les années 1970 à l’Aviation Légère de l’Armée de Terre (ALAT) et plus spécifiquement au 1er Régiment d’Hélicoptères de Combat (1er RHC). Ce dernier est doté d’appareils de transport et d’appui de dernière génération.\n\nCette vue aérienne de 1967 et ces informations ont été obtenus grâce à Philippe L.",
+    "x": 7.203169,
+    "y": 48.765242,
+    "custombutton": {
+      "url": "http://phalsbourg-air-base.blogspot.fr/",
+      "title": "Blog de Philippe L."
+    },
+    "mapbutton": false,
+    "image": {
+      "uri": "air_base_1967",
+      "height": 801,
+      "width": 755
+    }
+  },
+  {
+    "name": "Lutzelbourg",
+    "text": "Village situé à environ 4km du centre de Phalsbourg, il joue un grand rôle dans l’histoire de Phalsbourg. Lutzelbourg est situé dans la vallée de la Zorn où passe le canal de la Marne au Rhin ouvert en 1853. Sur cette illustration on peut voir la gare ouverte en 1851. Au second plan, on peut voir les ruines château du XI° tandis qu’en arrière plan on peut apercevoir quelques maisons de Trois-Maisons du bas.",
+    "x": 7.250971,
+    "y": 48.73518,
+    "image": {
+      "uri": "lutzelbourg",
+      "height": 466,
+      "width": 700
+    }
+  },
+  {
+    "name": "Saverne",
+    "text": "Sur cette illustration on peut voir au premier plan la gare de Saverne mise en service en 1851. Au second plan on peut voir le château des Rohan construit à la fin du XVIII° siècle.\nEn arrière plan, on  peut observer des châteaux de l’époque médiévale qui permettaient le contrôle de la région. Respectivement de gauche à droite : le Petit-Geroldseck du XIII° le Grand-Geroldseck, le Haut-Barr, le Greifenstein du XII° siècle.\nCette illustration montre bien l’importance qu’a la vallée de la Zorn pour la région : elle est le carrefour entre l’Alsace et la Lorraine. On retrouve alors l’une des raisons de la fondation du château d’Einartzhausen, maintenant au centre de Phalsbourg: contrôler le passage important entre ces deux grandes régions.",
+    "x": 7.362372,
+    "y": 48.74466,
+    "image": {
+      "uri": "saverne",
+      "height": 466,
+      "width": 700
+    }
+  },
+  {
+    "name": "Panneau du Club Vosgien",
+    "text": "Crée à Saverne 1872 par M. Richard Stieve, le Club Vosgien a pour but de mettre en place de nouveaux sentiers, d’entretenir et de baliser les sentiers existants dans le Massif vosgien.\nL’association du Club Vosgien de Phalsbourg-Lutzelbourg est l’une des plus anciennes, elle fut créé en 1874. En 2017, l’association compte plus de 500 membres.\nIl permet découvrir la beauté de la montagne, son intérêt historique, son patrimoine, ses richesses naturelles.\nSur cette photographie, un panneau en face de l’ancien tribunal donne le départ de plusieurs sentiers. On peut y remarquer les différents symboles communs à tout les Clubs Vosgiens pour le balisage.\nLa devise du Club Vosgien est  « Un jour de sentier = Huit jours de Santé ».",
+    "x": 7.262260,
+    "y": 48.76675,
+    "image": {
+      "uri": "club_vosgien",
+      "height": 1074,
+      "width": 1000
+    }
+  },
+  {
+    "name": "Synagogue",
+    "x": 7.257515,
+    "y": 48.76763,
+    "text": "Avec la transformation de Phalsbourg en forteresse, Louvois autorise l’implantation de familles juives dans Phalsbourg. En effet, les juifs sont les seuls capable de pourvoir aux activités commerciales indispensables au fonctionnement d’une ville de garnison. La communauté juive se développe alors, une première synagogue est construite en 1770 et un cimetière en 1796. Elle fut reconstruite en 1857 et inaugurée le 10 septembre 1857. Aujourd’hui, le culte n’est plus pratiqué à Phalsbourg car le myniâne (quorum nécessaire de 10 hommes de plus de 13 ans) n’existe plus. De nombreuse personnalités illustres sont issue de cette communauté dont Alexandre Weil.\nCe dernier fonda aux États-Unis les banques Lazard avec son cousin Simon Lazard à San Francisco. En 1885, il rentre en France afin d’y fonder la banque Lazard de Paris.\nMademoiselle Mathilde Salomon première femme à recevoir la croix de chevalier de la Légion d’Honneur est également issue de la communauté juive de Phalsbourg.",
+    "image": {
+      "uri": "synagogue",
+      "height": 750,
+      "width": 500
+    }
+  },
+  {
+    "name": "Monument aux morts",
+    "text": "Le 12 octobre 1919 est inauguré le monument aux morts de Phalsbourg appelé, Monument des Trois Sièges. En effet, Phalsbourg a subit trois sièges au cours de son histoire: en 1814, 1815, 1870. C’est d’ailleurs pour le comportement héroïque des habitants lors de ce dernier siège que la ville fut récompensé le 22 août 1919 de la croix de la Légion d’honneur.\nLe général Alfred Hollender est à l’origine de l’attribution de cette distinction, estimant que Phalsbourg mérite « bien plus que Bitche et Strasbourg » qui l’ont reçu la même année. Pour le remercier le maire Georges Henri Schwartz décida de changer le nom d’une partie de la rue du Collège en rue Alfred Hollender.",
+    "x": 7.253753,
+    "y": 48.76800,
+    "image": {
+      "uri": "monument_aux_morts",
+      "height": 750,
+      "width": 500
+    },
+    "more": [
+      {
+        "image": {
+          "uri": "defenseurs_monument",
+          "height": 250,
+          "width": 258
+        }
+      },
+      {
+        "image": {
+          "uri": "maires_monument",
+          "height": 250,
+          "width": 375
+        }
       }
-   },
-   {
-     "name": "Statue de Georges Mouton",
-     "text": "La Statue de Georges Mouton né à Phalsbourg en 1770, Comte de Lobau, Maréchal de France règne sur la Place d’Armes depuis 1859. En 1792, à 19 ans il s’engage comme volontaire dans l’armée; le 16 août, il est élu lieutenant par ses camarades; et le 5 novembre capitaine.\n\nL’Empereur Napoléon I° le choisit en 1805 comme aide de camp. Le 21 avril 1809, alors que la ville de Landshut résiste aux forces françaises, Napoléon ordonne à Mouton : « placez-vous à la tête de cette colonne et enlevez la ville de Landshut ! ». Il se met à la tête des grenadiers du 17e de ligne, traverse le pont sous un feu nourri et fait refluer les Autrichiens. L’Empereur déclare alors : « Mon Mouton est un lion ». \n\n Il tient son titre de « Comte de Lobau » de la bataille d’Essling, où il défend l’île Lobau. Il a ainsi permis la retraite des Français. Quelques jours plus tard, Napoléon crée le comte de Lobau en remerciement « pour avoir sept fois repoussé l’ennemi, et par là assuré la gloire de nos armes » comme le précise le décret impérial. \n\n Il participe aux campagnes de Russie et d’Allemagne où il est fait prisonnier à Dresde en 1813. Il reprend néanmoins du service durant les Cent-Jours et prend part à la bataille de Waterloo où il est à nouveau fait prisonnier. \n\nC’est le 30 juillet 1931, date anniversaire de la révolution de Juillet à laquelle il participa activement, que Mouton, pourtant fils de boulanger, reçoit son bâton de maréchal de France des mains de Louis-Philippe. \n\nIl s’éteint le 27 novembre 1838. Il repose aujourd’hui dans la crypte de l’église Saint-Louis des Invalides.\n\nLa photographie date de l'époque où la statue était encore entourée d'une grille.",
-     "x": 7.258754,
-     "y": 48.76705,
-     "image": {
-       "uri":"statue",
-       "height": 567,
-       "width": 361
-     },
-     "more": [
-       {
-         "text": "Mouton en 1792, capitaine au 9° Bataillon de la Meurthe",
-         "image": {
-           "uri":"mouton1",
-           "height":425,
-           "width":326
-         }
-       },
-       {
-         "text": "Georges Mouton après l'Empire",
-         "image": {
-           "uri":"mouton2",
-           "height":709,
-           "width":509
-         }
-       }
-     ]
-   },
-   {
-     "name": "Maison natale de Georges Mouton",
-     "x": 7.258626,
-     "y": 48.76833,
-     "image": {
-       "uri":"maison_mouton",
-       "height": 550,
-       "width": 949
-     }
-   },
-   {
-     "name": "Ancien tribunal cantonal",
-     "text": "Ce bâtiment fut construit en pierre de taille par les Allemands en 1900. Il sert aujourd'hui de réserve au musée de Phalsbourg. L'association Sauvegarde du patrimoine souhaiterait classer faire réhabiliter l’édifice en le classant à l'Inventaire des monuments historiques.",
-     "x": 7.26288,
-     "y": 48.76696,
-     "image": {
-       "uri":"tribunal",
-       "height": 346,
-       "width": 520
-     },
-     "more": [
-       {
-         "text": "Photographie du tribunal en 1914",
-         "image": {
-           "uri":"tribunal_1914",
-           "height":639,
-           "width":968
-         }
-       },
-       {
-         "image": {
-           "uri":"tribunal_de_bailliage",
-           "height":638,
-           "width":968
-         }
-       }
-     ]
-   },
-   {
-     "name": "Poste",
-     "text": "La Poste a été construite vers 1902 par les Allemands. Sur la facade on peut aujourd'hui voir le « RF » pour « République Française »  en jaune.",
-     "x": 7.256434,
-     "y": 48.76832,
-     "image": {
-       "uri":"poste_2017",
-       "height": 250,
-       "width": 375
-     },
-     "more": [
-       {
-         "image": {
-           "uri":"poste",
-           "height":446,
-           "width":277
-         }
-       }
-     ]
-   }
+    ]
+  },
+  {
+    "name": "Eglise protestante",
+    "text": "Cette photographie a été prise en 1835, elle disposait alors d’un clocher en bois. L’aspect actuel date de 1925.",
+    "x": 7.259191,
+    "y": 48.76858,
+    "image": {
+      "uri": "eglise_protestante",
+      "height": 457,
+      "width": 309
+    }
+  },
+  {
+    "name": "Monument Erckmann-Chatrian",
+    "text": "Phalsbourg est la ville natale de Emile Erckmann, c’est aussi là où il a rencontré Alexandre Chatiran avec qui il écrivit de nombreux romans tels que L’Ami Fritz, ou Histoire d’un conscrit de 1813 sous le nom d’auteur Erckmann-Chatrian. Un monument fut élevé à leur gloire le 12 novembre 1922, la photographie date d’ailleurs de 1922.",
+    "x": 7.258581,
+    "y": 48.76822,
+    "image": {
+      "uri": "monument_erckmann_chatrian",
+      "height": 698,
+      "width": 466
+    }
+  },
+  {
+    "name": "Statue de Georges Mouton",
+    "text": "La Statue de Georges Mouton né à Phalsbourg en 1770, Comte de Lobau, Maréchal de France règne sur la Place d’Armes depuis 1859. En 1792, à 19 ans il s’engage comme volontaire dans l’armée; le 16 août, il est élu lieutenant par ses camarades; et le 5 novembre capitaine.\n\nL’Empereur Napoléon I° le choisit en 1805 comme aide de camp. Le 21 avril 1809, alors que la ville de Landshut résiste aux forces françaises, Napoléon ordonne à Mouton : « placez-vous à la tête de cette colonne et enlevez la ville de Landshut ! ». Il se met à la tête des grenadiers du 17e de ligne, traverse le pont sous un feu nourri et fait refluer les Autrichiens. L’Empereur déclare alors : « Mon Mouton est un lion ». \n\n Il tient son titre de « Comte de Lobau » de la bataille d’Essling, où il défend l’île Lobau. Il a ainsi permis la retraite des Français. Quelques jours plus tard, Napoléon crée le comte de Lobau en remerciement « pour avoir sept fois repoussé l’ennemi, et par là assuré la gloire de nos armes » comme le précise le décret impérial. \n\n Il participe aux campagnes de Russie et d’Allemagne où il est fait prisonnier à Dresde en 1813. Il reprend néanmoins du service durant les Cent-Jours et prend part à la bataille de Waterloo où il est à nouveau fait prisonnier. \n\nC’est le 30 juillet 1931, date anniversaire de la révolution de Juillet à laquelle il participa activement, que Mouton, pourtant fils de boulanger, reçoit son bâton de maréchal de France des mains de Louis-Philippe. \n\nIl s’éteint le 27 novembre 1838. Il repose aujourd’hui dans la crypte de l’église Saint-Louis des Invalides.\n\nLa photographie date de l'époque où la statue était encore entourée d'une grille.",
+    "x": 7.258754,
+    "y": 48.76705,
+    "image": {
+      "uri": "statue",
+      "height": 567,
+      "width": 361
+    },
+    "more": [
+      {
+        "text": "Mouton en 1792, capitaine au 9° Bataillon de la Meurthe",
+        "image": {
+          "uri": "mouton1",
+          "height": 425,
+          "width": 326
+        }
+      },
+      {
+        "text": "Georges Mouton après l'Empire",
+        "image": {
+          "uri": "mouton2",
+          "height": 709,
+          "width": 509
+        }
+      }
+    ]
+  },
+  {
+    "name": "Maison natale de Georges Mouton",
+    "x": 7.258626,
+    "y": 48.76833,
+    "image": {
+      "uri": "maison_mouton",
+      "height": 550,
+      "width": 949
+    }
+  },
+  {
+    "name": "Ancien tribunal cantonal",
+    "text": "Ce bâtiment fut construit en pierre de taille par les Allemands en 1900. Il sert aujourd'hui de réserve au musée de Phalsbourg. L'association Sauvegarde du patrimoine souhaiterait classer faire réhabiliter l’édifice en le classant à l'Inventaire des monuments historiques.",
+    "x": 7.26288,
+    "y": 48.76696,
+    "image": {
+      "uri": "tribunal",
+      "height": 346,
+      "width": 520
+    },
+    "more": [
+      {
+        "text": "Photographie du tribunal en 1914",
+        "image": {
+          "uri": "tribunal_1914",
+          "height": 639,
+          "width": 968
+        }
+      },
+      {
+        "image": {
+          "uri": "tribunal_de_bailliage",
+          "height": 638,
+          "width": 968
+        }
+      }
+    ]
+  },
+  {
+    "name": "Poste",
+    "text": "La Poste a été construite vers 1902 par les Allemands. Sur la facade on peut aujourd'hui voir le « RF » pour « République Française »  en jaune.",
+    "x": 7.256434,
+    "y": 48.76832,
+    "image": {
+      "uri": "poste_2017",
+      "height": 250,
+      "width": 375
+    },
+    "more": [
+      {
+        "image": {
+          "uri": "poste",
+          "height": 446,
+          "width": 277
+        }
+      }
+    ]
+  },
+  {
+    "name": "Cimetière militaire",
+    "text": "Ce cimetière, méconnu des Phalsbourgeois a été créé en 1750, il n’est plus en activité aujourd’hui. \n\n Il a notamment fait usage lors de la période de 1870 à 1918 et lors de la dernière guerre. On y enterrait les soldats du 99e RI et d’autres régiments stationnés à Phalsbourg avant 1914. \n Des centaines de soldats morts lors de sièges de la ville (1814-1815-1870) ou décédés à l’hôpital militaire y reposent. \n Plusieurs soldats allemands y avaient été enterrés mais leurs corps ont été transférés en Allemagne. \n En 1944 un soldat américain y avait enterré. Son corps est reparti vers les USA.\nAujourd’hui on peut y observer une vingtaine de tombes. Un monument en face du chemin principal y a été installé où il y a été écrit « Versoehnung »  et sa traduction « Réconciliation ». \n\nCe cimetière où reposent des soldats aussi bien allemands que français témoigne du passé douloureux de la région, dans une ville décrite par son fondateur comme « ein Schlüssel zwischen Frankreich und dem Elsaß » ou en français « une clé entre la France et l’Alsace ».",
+    "x": 7.254723,
+    "y": 48.772597,
+    "image": {
+      "uri": "cimetiere_militaire",
+      "height": 288,
+      "width": 512
+    }
+  },
+  {
+    "name": "Chapelle Saint-Jean",
+    "text": "Cette chapelle a une histoire assez compliquée, elle a en effet changé de propriétaire plusieurs fois au cours des siècles.\n\nLe 3 avril 1629, le prince Louis de Phalsbourg donna à Étienne Buisson, un de ses officiers, des terres au lieu-dit \"Les Essarts\" afin d’y aménager une ferme. Ce don était assorti de l’obligation d’y élever une chapelle en l’honneur de Saint Jean-Baptiste et de consacrer une partie des revenus de la ferme pour l’achat et à l’entretien de tout ce qui est nécessaire au culte, ainsi qu’à la célébration annuelle d'une ou plusieurs messes.\n\nAu cours du XVIIème siècle, le chevalier Claude Baison, administrateur des fortifications de la ville, fit construire une tuilerie à proximité de la ferme. On retrouve régulièrement  des tuiles ornées de divers motifs et qui proviennent de cette vieille tuilerie phalsbourgeoise lors de travaux de réfection des toitures ou des fouilles nécessaires avant la construction de nouvelles maisons.  \n\nEn 1815, pendant le deuxième siège de Phalsbourg, tous les bâtiments extérieurs de la ville furent détruits. Ce fut le cas de la Tuilerie, la ferme et la chapelle Saint Jean. Mais dès la fin de cette guerre, M. Pernet, alors propriétaire de la ferme, fit reconstruire la chapelle et la Tuilerie.\n\nLongtemps, la chapelle Saint-Jean est restée à l’abandon au milieu des arbres et des broussailles. En 1977, les élèves du Collège Saint Antoine ont effectué des travaux de restauration, malheureusement endommagés par des vandales, elle fut à nouveau restaurée en 1990 par les soins de Mme Marianne Klein. Depuis cette date, la tradition de la messe annuelle demandée par le prince Louis de Phalsbourg est respectée.",
+    "x": 7.265127,
+    "y": 48.772848,
+    "image": {
+      "uri": "chapelle_saint-jean",
+      "height": 400,
+      "width": 338
+    }
+  }
 ]
