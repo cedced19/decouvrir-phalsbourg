@@ -24,6 +24,8 @@
 * Eglise protestante [phalsbourg.fr](https://www.phalsbourg.fr/dynamic/pdf/phg_infos_octobre_2017.pdf)
 * "Phalsbourg autrefois" [facebook.com](https://www.facebook.com/phalsbourgautrefois/)
 * Georges Mouton [wikipedia.org](https://fr.wikipedia.org/wiki/Georges_Mouton)
+* Cimetière militaire [monumentsmorts.univ-lille.fr](https://monumentsmorts.univ-lille.fr/monument/39109/phalsbourg-cimetieremilitaire/)
+* Chapelle Saint-Jean [cathophalsbourg.over-blog.com](http://cathophalsbourg.over-blog.com/article-la-chapelle-st-jean-baptiste-de-phalsbourg-107257333.html)
 
 ### Descriptions
 
