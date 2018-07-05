@@ -8,7 +8,7 @@ jest.mock('TaskQueue', () => {
     }
   }
   TaskQueue.propTypes = RealComponent.propTypes;
-  return TextInput;
+  return TaskQueue;
 });
 
 jest.mock('Linking', () => ({
