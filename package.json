@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "android": "react-native run-android",
-    "test": "jest --runInBand",
+    "test": "jest --runInBand --maxWorkers=4",
     "release-android": "cd android && ./gradlew assembleRelease && cp ./app/build/outputs/apk/app-release.apk ../"
   },
   "dependencies": {
